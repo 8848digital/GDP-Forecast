@@ -14,7 +14,7 @@ class GDPForecasting(Document):
 
 @frappe.whitelist()
 def upload_file(file, dataset_type):
-    file = frappe.get_site_path("private", "files", file.split('/')[-1])
+    file = frappe.get_site_path(file.split('/')[-3], "files", file.split('/')[-1])
 
     # Check if the file exists before attempting to read it
     if not os.path.exists(file):
@@ -188,10 +188,12 @@ def upload_base_datasets(gdp_dataset, workforce_dataset, annual_growth_rates_dat
                           quarterly_growth_rates_dataset, use_existing_gdp_file, 
                           use_existing_workforce_file, use_existing_annual_growth_file, 
                           use_existing_quarterly_growth_file):
-    default_gdp_file = '/home/gopal/Gears/frappe-bench/apps/gdp_forecasting/gdp_forecasting/base_datasets/gdp.csv'
-    default_workforce_file = '/home/gopal/Gears/frappe-bench/apps/gdp_forecasting/gdp_forecasting/base_datasets/workforce.csv'
-    default_annual_growth_file = '/home/gopal/Gears/frappe-bench/apps/gdp_forecasting/gdp_forecasting/base_datasets/Annual_GrowthRates.csv'
-    default_quarterly_growth_file = '/home/gopal/Gears/frappe-bench/apps/gdp_forecasting/gdp_forecasting/base_datasets/Quarterly_GrowthRates.csv'
+    base_path = frappe.get_app_path('gdp_forecasting', 'base_datasets')
+
+    default_gdp_file = os.path.join(base_path, 'gdp.csv')
+    default_workforce_file = os.path.join(base_path, 'workforce.csv')
+    default_annual_growth_file = os.path.join(base_path, 'Annual_GrowthRates.csv')
+    default_quarterly_growth_file = os.path.join(base_path, 'Quarterly_GrowthRates.csv')
     # Determine which files to use: new uploads or existing
     gdp_file = gdp_dataset if gdp_dataset else default_gdp_file
     workforce_file = workforce_dataset if workforce_dataset else default_workforce_file
