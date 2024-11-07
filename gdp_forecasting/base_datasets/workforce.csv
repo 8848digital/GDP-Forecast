@@ -1,0 +1,925 @@
+id,GOSI_classification,OutPut Classification,Quarter,Region,Value
+15,Public administration and defence; compulsory social security,Government Services,2019-Q1,KSA,191944
+19,Other service activities,Government Services,2019-Q1,KSA,218036
+20,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q1,KSA,0
+21,Activities of extraterritorial organizations and bodies,Government Services,2019-Q1,KSA,952
+22,Not specified,Government Services,2019-Q1,KSA,18429
+37,Public administration and defence; compulsory social security,Government Services,2019-Q2,KSA,193702
+41,Other service activities,Government Services,2019-Q2,KSA,216083
+42,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q2,KSA,5
+43,Activities of extraterritorial organizations and bodies,Government Services,2019-Q2,KSA,1012
+44,Not specified,Government Services,2019-Q2,KSA,32926
+59,Public administration and defence; compulsory social security,Government Services,2019-Q3,KSA,198188
+63,Other service activities,Government Services,2019-Q3,KSA,215745
+64,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q3,KSA,4
+65,Activities of extraterritorial organizations and bodies,Government Services,2019-Q3,KSA,1070
+66,Not specified,Government Services,2019-Q3,KSA,38877
+81,Public administration and defence; compulsory social security,Government Services,2019-Q4,KSA,212349
+85,Other service activities,Government Services,2019-Q4,KSA,217420
+86,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q4,KSA,4
+87,Activities of extraterritorial organizations and bodies,Government Services,2019-Q4,KSA,1259
+88,Not specified,Government Services,2019-Q4,KSA,51368
+103,Public administration and defence; compulsory social security,Government Services,2020-Q1,KSA,219072
+107,Other service activities,Government Services,2020-Q1,KSA,222138
+108,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2020-Q1,KSA,8
+109,Activities of extraterritorial organizations and bodies,Government Services,2020-Q1,KSA,1347
+110,Not specified,Government Services,2020-Q1,KSA,147739
+125,Public administration and defence; compulsory social security,Government Services,2020-Q2,KSA,224337
+129,Other service activities,Government Services,2020-Q2,KSA,221822
+130,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2020-Q2,KSA,27
+131,Activities of extraterritorial organizations and bodies,Government Services,2020-Q2,KSA,1373
+132,Not specified,Government Services,2020-Q2,KSA,155999
+147,Public administration and defence; compulsory social security,Government Services,2020-Q3,KSA,227442
+151,Other service activities,Government Services,2020-Q3,KSA,220883
+152,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2020-Q3,KSA,44
+153,Activities of extraterritorial organizations and bodies,Government Services,2020-Q3,KSA,1382
+154,Not specified,Government Services,2020-Q3,KSA,134149
+169,Public administration and defence; compulsory social security,Government Services,2021-Q4,KSA,239559
+173,Other service activities,Government Services,2021-Q4,KSA,218343
+174,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q4,KSA,77
+175,Activities of extraterritorial organizations and bodies,Government Services,2021-Q4,KSA,1422
+176,Not specified,Government Services,2021-Q4,KSA,124697
+191,Public administration and defence; compulsory social security,Government Services,2021-Q1,KSA,246902
+195,Other service activities,Government Services,2021-Q1,KSA,215565
+196,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q1,KSA,142
+197,Activities of extraterritorial organizations and bodies,Government Services,2021-Q1,KSA,1456
+198,Not specified,Government Services,2021-Q1,KSA,133257
+213,Public administration and defence; compulsory social security,Government Services,2021-Q2,KSA,264295
+217,Other service activities,Government Services,2021-Q2,KSA,210010
+218,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q2,KSA,145
+219,Activities of extraterritorial organizations and bodies,Government Services,2021-Q2,KSA,1575
+220,Not specified,Government Services,2021-Q2,KSA,118878
+235,Public administration and defence; compulsory social security,Government Services,2021-Q3,KSA,272991
+239,Other service activities,Government Services,2021-Q3,KSA,208242
+240,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q3,KSA,148
+241,Activities of extraterritorial organizations and bodies,Government Services,2021-Q3,KSA,1627
+242,Not specified,Government Services,2021-Q3,KSA,115552
+257,Public administration and defence; compulsory social security,Government Services,2021-Q4,KSA,295173
+261,Other service activities,Government Services,2021-Q4,KSA,209986
+262,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q4,KSA,224
+263,Activities of extraterritorial organizations and bodies,Government Services,2021-Q4,KSA,1748
+264,Not specified,Government Services,2021-Q4,KSA,143717
+279,Public administration and defence; compulsory social security,Government Services,2022-Q1,KSA,297192
+283,Other service activities,Government Services,2022-Q1,KSA,244155
+284,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q1,KSA,246
+285,Activities of extraterritorial organizations and bodies,Government Services,2022-Q1,KSA,1854
+286,Not specified,Government Services,2022-Q1,KSA,329694
+301,Public administration and defence; compulsory social security,Government Services,2022-Q2,KSA,264775
+305,Other service activities,Government Services,2022-Q2,KSA,257284
+306,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q2,KSA,106
+307,Activities of extraterritorial organizations and bodies,Government Services,2022-Q2,KSA,844
+308,Not specified,Government Services,2022-Q2,KSA,158839
+323,Public administration and defence; compulsory social security,Government Services,2022-Q3,KSA,258595
+327,Other service activities,Government Services,2022-Q3,KSA,247716
+328,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q3,KSA,98
+329,Activities of extraterritorial organizations and bodies,Government Services,2022-Q3,KSA,860
+330,Not specified,Government Services,2022-Q3,KSA,227573
+345,Public administration and defence; compulsory social security,Government Services,2022-Q4,KSA,266467
+349,Other service activities,Government Services,2022-Q4,KSA,237962
+350,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q4,KSA,94
+351,Activities of extraterritorial organizations and bodies,Government Services,2022-Q4,KSA,859
+352,Not specified,Government Services,2022-Q4,KSA,228525
+367,Public administration and defence; compulsory social security,Government Services,2023-Q1,KSA,267708
+371,Other service activities,Government Services,2023-Q1,KSA,239385
+372,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q1,KSA,85
+373,Activities of extraterritorial organizations and bodies,Government Services,2023-Q1,KSA,838
+374,Not specified,Government Services,2023-Q1,KSA,295094
+389,Public administration and defence; compulsory social security,Government Services,2023-Q2,KSA,271363
+393,Other service activities,Government Services,2023-Q2,KSA,235915
+394,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q2,KSA,89
+395,Activities of extraterritorial organizations and bodies,Government Services,2023-Q2,KSA,830
+396,Not specified,Government Services,2023-Q2,KSA,357127
+411,Public administration and defence; compulsory social security,Government Services,2023-Q3,KSA,278501
+415,Other service activities,Government Services,2023-Q3,KSA,234478
+416,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q3,KSA,88
+417,Activities of extraterritorial organizations and bodies,Government Services,2023-Q3,KSA,833
+418,Not specified,Government Services,2023-Q3,KSA,919238
+433,Public administration and defence; compulsory social security,Government Services,2023-Q4,KSA,284829
+437,Other service activities,Government Services,2023-Q4,KSA,230526
+438,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q4,KSA,86
+439,Activities of extraterritorial organizations and bodies,Government Services,2023-Q4,KSA,473
+440,Not specified,Government Services,2023-Q4,KSA,916062
+455,Public administration and defence; compulsory social security,Government Services,2024-Q1,KSA,289434
+459,Other service activities,Government Services,2024-Q1,KSA,242973
+460,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2024-Q1,KSA,83
+461,Activities of extraterritorial organizations and bodies,Government Services,2024-Q1,KSA,487
+462,Not specified,Government Services,2024-Q1,KSA,992969
+477,Public administration and defence; compulsory social security,Government Services,2019-Q1,Riyadh,88258
+481,Other service activities,Government Services,2019-Q1,Riyadh,97424
+482,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q1,Riyadh,0
+483,Activities of extraterritorial organizations and bodies,Government Services,2019-Q1,Riyadh,826
+484,Not specified,Government Services,2019-Q1,Riyadh,5301
+499,Public administration and defence; compulsory social security,Government Services,2019-Q2,Riyadh,90843
+503,Other service activities,Government Services,2019-Q2,Riyadh,97076
+504,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q2,Riyadh,0
+505,Activities of extraterritorial organizations and bodies,Government Services,2019-Q2,Riyadh,882
+506,Not specified,Government Services,2019-Q2,Riyadh,14449
+521,Public administration and defence; compulsory social security,Government Services,2019-Q3,Riyadh,93865
+525,Other service activities,Government Services,2019-Q3,Riyadh,98586
+526,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q3,Riyadh,0
+527,Activities of extraterritorial organizations and bodies,Government Services,2019-Q3,Riyadh,938
+528,Not specified,Government Services,2019-Q3,Riyadh,18497
+543,Public administration and defence; compulsory social security,Government Services,2019-Q4,Riyadh,104043
+547,Other service activities,Government Services,2019-Q4,Riyadh,101022
+548,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2019-Q4,Riyadh,0
+549,Activities of extraterritorial organizations and bodies,Government Services,2019-Q4,Riyadh,1013
+550,Not specified,Government Services,2019-Q4,Riyadh,25891
+565,Public administration and defence; compulsory social security,Government Services,2020-Q1,Riyadh,106789
+569,Other service activities,Government Services,2020-Q1,Riyadh,103931
+570,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2020-Q1,Riyadh,0
+571,Activities of extraterritorial organizations and bodies,Government Services,2020-Q1,Riyadh,1079
+572,Not specified,Government Services,2020-Q1,Riyadh,50558
+587,Public administration and defence; compulsory social security,Government Services,2020-Q2,Riyadh,108306
+591,Other service activities,Government Services,2020-Q2,Riyadh,103438
+592,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2020-Q2,Riyadh,6
+593,Activities of extraterritorial organizations and bodies,Government Services,2020-Q2,Riyadh,1099
+594,Not specified,Government Services,2020-Q2,Riyadh,53572
+609,Public administration and defence; compulsory social security,Government Services,2020-Q3,Riyadh,108973
+613,Other service activities,Government Services,2020-Q3,Riyadh,101533
+614,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2020-Q3,Riyadh,9
+615,Activities of extraterritorial organizations and bodies,Government Services,2020-Q3,Riyadh,1111
+616,Not specified,Government Services,2020-Q3,Riyadh,50788
+631,Public administration and defence; compulsory social security,Government Services,2021-Q4,Riyadh,108973
+635,Other service activities,Government Services,2021-Q4,Riyadh,101533
+636,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q4,Riyadh,9
+637,Activities of extraterritorial organizations and bodies,Government Services,2021-Q4,Riyadh,1111
+638,Not specified,Government Services,2021-Q4,Riyadh,50788
+653,Public administration and defence; compulsory social security,Government Services,2021-Q1,Riyadh,108973
+657,Other service activities,Government Services,2021-Q1,Riyadh,101533
+658,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q1,Riyadh,9
+659,Activities of extraterritorial organizations and bodies,Government Services,2021-Q1,Riyadh,1111
+660,Not specified,Government Services,2021-Q1,Riyadh,50788
+675,Public administration and defence; compulsory social security,Government Services,2021-Q2,Riyadh,108973
+679,Other service activities,Government Services,2021-Q2,Riyadh,101533
+680,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q2,Riyadh,9
+681,Activities of extraterritorial organizations and bodies,Government Services,2021-Q2,Riyadh,1111
+682,Not specified,Government Services,2021-Q2,Riyadh,50788
+697,Public administration and defence; compulsory social security,Government Services,2021-Q3,Riyadh,141911
+701,Other service activities,Government Services,2021-Q3,Riyadh,97105
+702,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q3,Riyadh,34
+703,Activities of extraterritorial organizations and bodies,Government Services,2021-Q3,Riyadh,1289
+704,Not specified,Government Services,2021-Q3,Riyadh,55177
+719,Public administration and defence; compulsory social security,Government Services,2021-Q4,Riyadh,141911
+723,Other service activities,Government Services,2021-Q4,Riyadh,97105
+724,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2021-Q4,Riyadh,34
+725,Activities of extraterritorial organizations and bodies,Government Services,2021-Q4,Riyadh,1289
+726,Not specified,Government Services,2021-Q4,Riyadh,55177
+741,Public administration and defence; compulsory social security,Government Services,2022-Q1,Riyadh,164360
+745,Other service activities,Government Services,2022-Q1,Riyadh,125609
+746,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q1,Riyadh,68
+747,Activities of extraterritorial organizations and bodies,Government Services,2022-Q1,Riyadh,1512
+748,Not specified,Government Services,2022-Q1,Riyadh,166182
+763,Public administration and defence; compulsory social security,Government Services,2022-Q2,Riyadh,148423
+767,Other service activities,Government Services,2022-Q2,Riyadh,123170
+768,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q2,Riyadh,25
+769,Activities of extraterritorial organizations and bodies,Government Services,2022-Q2,Riyadh,541
+770,Not specified,Government Services,2022-Q2,Riyadh,117957
+785,Public administration and defence; compulsory social security,Government Services,2022-Q3,Riyadh,139328
+789,Other service activities,Government Services,2022-Q3,Riyadh,115993
+790,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q3,Riyadh,23
+791,Activities of extraterritorial organizations and bodies,Government Services,2022-Q3,Riyadh,527
+792,Not specified,Government Services,2022-Q3,Riyadh,146892
+807,Public administration and defence; compulsory social security,Government Services,2022-Q4,Riyadh,145340
+811,Other service activities,Government Services,2022-Q4,Riyadh,108821
+812,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2022-Q4,Riyadh,19
+813,Activities of extraterritorial organizations and bodies,Government Services,2022-Q4,Riyadh,521
+814,Not specified,Government Services,2022-Q4,Riyadh,147879
+829,Public administration and defence; compulsory social security,Government Services,2023-Q1,Riyadh,150953
+833,Other service activities,Government Services,2023-Q1,Riyadh,106290
+834,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q1,Riyadh,10
+835,Activities of extraterritorial organizations and bodies,Government Services,2023-Q1,Riyadh,516
+836,Not specified,Government Services,2023-Q1,Riyadh,188348
+851,Public administration and defence; compulsory social security,Government Services,2023-Q2,Riyadh,154670
+855,Other service activities,Government Services,2023-Q2,Riyadh,104389
+856,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q2,Riyadh,10
+857,Activities of extraterritorial organizations and bodies,Government Services,2023-Q2,Riyadh,514
+858,Not specified,Government Services,2023-Q2,Riyadh,232435
+873,Public administration and defence; compulsory social security,Government Services,2023-Q3,Riyadh,155587
+877,Other service activities,Government Services,2023-Q3,Riyadh,102121
+878,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q3,Riyadh,14
+879,Activities of extraterritorial organizations and bodies,Government Services,2023-Q3,Riyadh,519
+880,Not specified,Government Services,2023-Q3,Riyadh,697060
+895,Public administration and defence; compulsory social security,Government Services,2023-Q4,Riyadh,161156
+899,Other service activities,Government Services,2023-Q4,Riyadh,100034
+900,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2023-Q4,Riyadh,15
+901,Activities of extraterritorial organizations and bodies,Government Services,2023-Q4,Riyadh,158
+902,Not specified,Government Services,2023-Q4,Riyadh,693156
+917,Public administration and defence; compulsory social security,Government Services,2024-Q1,Riyadh,165481
+921,Other service activities,Government Services,2024-Q1,Riyadh,106436
+922,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,Government Services,2024-Q1,Riyadh,17
+923,Activities of extraterritorial organizations and bodies,Government Services,2024-Q1,Riyadh,164
+924,Not specified,Government Services,2024-Q1,Riyadh,750922
+14,Administrative and support service activities,"Community, Social & Personal Services",2019-Q1,KSA,1010693
+16,Education,"Community, Social & Personal Services",2019-Q1,KSA,154044
+17,Human health and social work activities,"Community, Social & Personal Services",2019-Q1,KSA,335673
+18,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q1,KSA,22823
+36,Administrative and support service activities,"Community, Social & Personal Services",2019-Q2,KSA,1049847
+38,Education,"Community, Social & Personal Services",2019-Q2,KSA,138378
+39,Human health and social work activities,"Community, Social & Personal Services",2019-Q2,KSA,331900
+40,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q2,KSA,23089
+58,Administrative and support service activities,"Community, Social & Personal Services",2019-Q3,KSA,1057505
+60,Education,"Community, Social & Personal Services",2019-Q3,KSA,146728
+61,Human health and social work activities,"Community, Social & Personal Services",2019-Q3,KSA,340865
+62,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q3,KSA,23859
+80,Administrative and support service activities,"Community, Social & Personal Services",2019-Q4,KSA,1064994
+82,Education,"Community, Social & Personal Services",2019-Q4,KSA,153554
+83,Human health and social work activities,"Community, Social & Personal Services",2019-Q4,KSA,352279
+84,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q4,KSA,24143
+102,Administrative and support service activities,"Community, Social & Personal Services",2020-Q1,KSA,1094078
+104,Education,"Community, Social & Personal Services",2020-Q1,KSA,155072
+105,Human health and social work activities,"Community, Social & Personal Services",2020-Q1,KSA,363344
+106,"Arts, entertainment and recreation","Community, Social & Personal Services",2020-Q1,KSA,24698
+124,Administrative and support service activities,"Community, Social & Personal Services",2020-Q2,KSA,1088052
+126,Education,"Community, Social & Personal Services",2020-Q2,KSA,137813
+127,Human health and social work activities,"Community, Social & Personal Services",2020-Q2,KSA,362469
+128,"Arts, entertainment and recreation","Community, Social & Personal Services",2020-Q2,KSA,24616
+146,Administrative and support service activities,"Community, Social & Personal Services",2020-Q3,KSA,1062638
+148,Education,"Community, Social & Personal Services",2020-Q3,KSA,135410
+149,Human health and social work activities,"Community, Social & Personal Services",2020-Q3,KSA,366392
+150,"Arts, entertainment and recreation","Community, Social & Personal Services",2020-Q3,KSA,25292
+168,Administrative and support service activities,"Community, Social & Personal Services",2021-Q4,KSA,1029837
+170,Education,"Community, Social & Personal Services",2021-Q4,KSA,134412
+171,Human health and social work activities,"Community, Social & Personal Services",2021-Q4,KSA,368743
+172,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q4,KSA,26851
+190,Administrative and support service activities,"Community, Social & Personal Services",2021-Q1,KSA,1023184
+192,Education,"Community, Social & Personal Services",2021-Q1,KSA,133106
+193,Human health and social work activities,"Community, Social & Personal Services",2021-Q1,KSA,429168
+194,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q1,KSA,27147
+212,Administrative and support service activities,"Community, Social & Personal Services",2021-Q2,KSA,976024
+214,Education,"Community, Social & Personal Services",2021-Q2,KSA,122705
+215,Human health and social work activities,"Community, Social & Personal Services",2021-Q2,KSA,436670
+216,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q2,KSA,28124
+234,Administrative and support service activities,"Community, Social & Personal Services",2021-Q3,KSA,946426
+236,Education,"Community, Social & Personal Services",2021-Q3,KSA,135359
+237,Human health and social work activities,"Community, Social & Personal Services",2021-Q3,KSA,444930
+238,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q3,KSA,29325
+256,Administrative and support service activities,"Community, Social & Personal Services",2021-Q4,KSA,977737
+258,Education,"Community, Social & Personal Services",2021-Q4,KSA,140899
+259,Human health and social work activities,"Community, Social & Personal Services",2021-Q4,KSA,470352
+260,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q4,KSA,29992
+278,Administrative and support service activities,"Community, Social & Personal Services",2022-Q1,KSA,1012678
+280,Education,"Community, Social & Personal Services",2022-Q1,KSA,146434
+281,Human health and social work activities,"Community, Social & Personal Services",2022-Q1,KSA,407099
+282,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q1,KSA,31667
+300,Administrative and support service activities,"Community, Social & Personal Services",2022-Q2,KSA,1141367
+302,Education,"Community, Social & Personal Services",2022-Q2,KSA,171808
+303,Human health and social work activities,"Community, Social & Personal Services",2022-Q2,KSA,413245
+304,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q2,KSA,29288
+322,Administrative and support service activities,"Community, Social & Personal Services",2022-Q3,KSA,1166930
+324,Education,"Community, Social & Personal Services",2022-Q3,KSA,173137
+325,Human health and social work activities,"Community, Social & Personal Services",2022-Q3,KSA,433182
+326,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q3,KSA,31653
+344,Administrative and support service activities,"Community, Social & Personal Services",2022-Q4,KSA,1175278
+346,Education,"Community, Social & Personal Services",2022-Q4,KSA,180694
+347,Human health and social work activities,"Community, Social & Personal Services",2022-Q4,KSA,440396
+348,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q4,KSA,32338
+366,Administrative and support service activities,"Community, Social & Personal Services",2023-Q1,KSA,1204832
+368,Education,"Community, Social & Personal Services",2023-Q1,KSA,184775
+369,Human health and social work activities,"Community, Social & Personal Services",2023-Q1,KSA,452352
+370,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q1,KSA,33509
+388,Administrative and support service activities,"Community, Social & Personal Services",2023-Q2,KSA,1168552
+390,Education,"Community, Social & Personal Services",2023-Q2,KSA,177190
+391,Human health and social work activities,"Community, Social & Personal Services",2023-Q2,KSA,443553
+392,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q2,KSA,32748
+410,Administrative and support service activities,"Community, Social & Personal Services",2023-Q3,KSA,1130332
+412,Education,"Community, Social & Personal Services",2023-Q3,KSA,194591
+413,Human health and social work activities,"Community, Social & Personal Services",2023-Q3,KSA,448359
+414,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q3,KSA,32242
+432,Administrative and support service activities,"Community, Social & Personal Services",2023-Q4,KSA,1110940
+434,Education,"Community, Social & Personal Services",2023-Q4,KSA,197448
+435,Human health and social work activities,"Community, Social & Personal Services",2023-Q4,KSA,448222
+436,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q4,KSA,32069
+454,Administrative and support service activities,"Community, Social & Personal Services",2024-Q1,KSA,1156985
+456,Education,"Community, Social & Personal Services",2024-Q1,KSA,202219
+457,Human health and social work activities,"Community, Social & Personal Services",2024-Q1,KSA,453900
+458,"Arts, entertainment and recreation","Community, Social & Personal Services",2024-Q1,KSA,32572
+476,Administrative and support service activities,"Community, Social & Personal Services",2019-Q1,Riyadh,627704
+478,Education,"Community, Social & Personal Services",2019-Q1,Riyadh,68096
+479,Human health and social work activities,"Community, Social & Personal Services",2019-Q1,Riyadh,128923
+480,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q1,Riyadh,7254
+498,Administrative and support service activities,"Community, Social & Personal Services",2019-Q2,Riyadh,666757
+500,Education,"Community, Social & Personal Services",2019-Q2,Riyadh,61900
+501,Human health and social work activities,"Community, Social & Personal Services",2019-Q2,Riyadh,127735
+502,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q2,Riyadh,7547
+520,Administrative and support service activities,"Community, Social & Personal Services",2019-Q3,Riyadh,675157
+522,Education,"Community, Social & Personal Services",2019-Q3,Riyadh,65431
+523,Human health and social work activities,"Community, Social & Personal Services",2019-Q3,Riyadh,129479
+524,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q3,Riyadh,8313
+542,Administrative and support service activities,"Community, Social & Personal Services",2019-Q4,Riyadh,682774
+544,Education,"Community, Social & Personal Services",2019-Q4,Riyadh,67921
+545,Human health and social work activities,"Community, Social & Personal Services",2019-Q4,Riyadh,134214
+546,"Arts, entertainment and recreation","Community, Social & Personal Services",2019-Q4,Riyadh,8573
+564,Administrative and support service activities,"Community, Social & Personal Services",2020-Q1,Riyadh,698847
+566,Education,"Community, Social & Personal Services",2020-Q1,Riyadh,68482
+567,Human health and social work activities,"Community, Social & Personal Services",2020-Q1,Riyadh,139955
+568,"Arts, entertainment and recreation","Community, Social & Personal Services",2020-Q1,Riyadh,8855
+586,Administrative and support service activities,"Community, Social & Personal Services",2020-Q2,Riyadh,695474
+588,Education,"Community, Social & Personal Services",2020-Q2,Riyadh,62967
+589,Human health and social work activities,"Community, Social & Personal Services",2020-Q2,Riyadh,140679
+590,"Arts, entertainment and recreation","Community, Social & Personal Services",2020-Q2,Riyadh,8856
+608,Administrative and support service activities,"Community, Social & Personal Services",2020-Q3,Riyadh,679973
+610,Education,"Community, Social & Personal Services",2020-Q3,Riyadh,61435
+611,Human health and social work activities,"Community, Social & Personal Services",2020-Q3,Riyadh,141226
+612,"Arts, entertainment and recreation","Community, Social & Personal Services",2020-Q3,Riyadh,9085
+630,Administrative and support service activities,"Community, Social & Personal Services",2021-Q4,Riyadh,679973
+632,Education,"Community, Social & Personal Services",2021-Q4,Riyadh,61435
+633,Human health and social work activities,"Community, Social & Personal Services",2021-Q4,Riyadh,141226
+634,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q4,Riyadh,9085
+652,Administrative and support service activities,"Community, Social & Personal Services",2021-Q1,Riyadh,679973
+654,Education,"Community, Social & Personal Services",2021-Q1,Riyadh,61435
+655,Human health and social work activities,"Community, Social & Personal Services",2021-Q1,Riyadh,141226
+656,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q1,Riyadh,9085
+674,Administrative and support service activities,"Community, Social & Personal Services",2021-Q2,Riyadh,679973
+676,Education,"Community, Social & Personal Services",2021-Q2,Riyadh,61435
+677,Human health and social work activities,"Community, Social & Personal Services",2021-Q2,Riyadh,141226
+678,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q2,Riyadh,9085
+696,Administrative and support service activities,"Community, Social & Personal Services",2021-Q3,Riyadh,589751
+698,Education,"Community, Social & Personal Services",2021-Q3,Riyadh,60382
+699,Human health and social work activities,"Community, Social & Personal Services",2021-Q3,Riyadh,162699
+700,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q3,Riyadh,11996
+718,Administrative and support service activities,"Community, Social & Personal Services",2021-Q4,Riyadh,589751
+720,Education,"Community, Social & Personal Services",2021-Q4,Riyadh,60382
+721,Human health and social work activities,"Community, Social & Personal Services",2021-Q4,Riyadh,162699
+722,"Arts, entertainment and recreation","Community, Social & Personal Services",2021-Q4,Riyadh,11996
+740,Administrative and support service activities,"Community, Social & Personal Services",2022-Q1,Riyadh,643023
+742,Education,"Community, Social & Personal Services",2022-Q1,Riyadh,64349
+743,Human health and social work activities,"Community, Social & Personal Services",2022-Q1,Riyadh,156299
+744,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q1,Riyadh,13501
+762,Administrative and support service activities,"Community, Social & Personal Services",2022-Q2,Riyadh,695703
+764,Education,"Community, Social & Personal Services",2022-Q2,Riyadh,88371
+765,Human health and social work activities,"Community, Social & Personal Services",2022-Q2,Riyadh,165679
+766,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q2,Riyadh,13535
+784,Administrative and support service activities,"Community, Social & Personal Services",2022-Q3,Riyadh,682634
+786,Education,"Community, Social & Personal Services",2022-Q3,Riyadh,83147
+787,Human health and social work activities,"Community, Social & Personal Services",2022-Q3,Riyadh,179562
+788,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q3,Riyadh,14791
+806,Administrative and support service activities,"Community, Social & Personal Services",2022-Q4,Riyadh,686868
+808,Education,"Community, Social & Personal Services",2022-Q4,Riyadh,84848
+809,Human health and social work activities,"Community, Social & Personal Services",2022-Q4,Riyadh,184016
+810,"Arts, entertainment and recreation","Community, Social & Personal Services",2022-Q4,Riyadh,14998
+828,Administrative and support service activities,"Community, Social & Personal Services",2023-Q1,Riyadh,701252
+830,Education,"Community, Social & Personal Services",2023-Q1,Riyadh,87513
+831,Human health and social work activities,"Community, Social & Personal Services",2023-Q1,Riyadh,189128
+832,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q1,Riyadh,15602
+850,Administrative and support service activities,"Community, Social & Personal Services",2023-Q2,Riyadh,685259
+852,Education,"Community, Social & Personal Services",2023-Q2,Riyadh,85458
+853,Human health and social work activities,"Community, Social & Personal Services",2023-Q2,Riyadh,183838
+854,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q2,Riyadh,15346
+872,Administrative and support service activities,"Community, Social & Personal Services",2023-Q3,Riyadh,658045
+874,Education,"Community, Social & Personal Services",2023-Q3,Riyadh,94384
+875,Human health and social work activities,"Community, Social & Personal Services",2023-Q3,Riyadh,185627
+876,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q3,Riyadh,14878
+894,Administrative and support service activities,"Community, Social & Personal Services",2023-Q4,Riyadh,648078
+896,Education,"Community, Social & Personal Services",2023-Q4,Riyadh,95768
+897,Human health and social work activities,"Community, Social & Personal Services",2023-Q4,Riyadh,186614
+898,"Arts, entertainment and recreation","Community, Social & Personal Services",2023-Q4,Riyadh,15203
+916,Administrative and support service activities,"Community, Social & Personal Services",2024-Q1,Riyadh,670904
+918,Education,"Community, Social & Personal Services",2024-Q1,Riyadh,98900
+919,Human health and social work activities,"Community, Social & Personal Services",2024-Q1,Riyadh,189569
+920,"Arts, entertainment and recreation","Community, Social & Personal Services",2024-Q1,Riyadh,15536
+441,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2024-Q1,KSA,164292
+442,Mining and quarrying,Mining & Quarrying,2024-Q1,KSA,173925
+443,Manufacturing,Manufacturing,2024-Q1,KSA,1298422
+444,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2024-Q1,KSA,40294
+445,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2024-Q1,KSA,138035
+446,Construction,Construction,2024-Q1,KSA,2816018
+447,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2024-Q1,KSA,1647023
+448,Transportation and storage,"Transport, Storage & Communication",2024-Q1,KSA,550184
+449,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2024-Q1,KSA,681367
+450,Information and communication,"Transport, Storage & Communication",2024-Q1,KSA,110795
+451,Financial and insurance activities,"Finance , Insurance and Business sevices",2024-Q1,KSA,96478
+452,Real estate activities,Real Estate,2024-Q1,KSA,54389
+453,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2024-Q1,KSA,250588
+903,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2024-Q1,Riyadh,84161
+904,Mining and quarrying,Mining & Quarrying,2024-Q1,Riyadh,20235
+905,Manufacturing,Manufacturing,2024-Q1,Riyadh,546108
+906,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2024-Q1,Riyadh,14118
+907,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2024-Q1,Riyadh,75526
+908,Construction,Construction,2024-Q1,Riyadh,1177363
+909,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2024-Q1,Riyadh,608841
+910,Transportation and storage,"Transport, Storage & Communication",2024-Q1,Riyadh,255678
+911,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2024-Q1,Riyadh,217898
+912,Information and communication,"Transport, Storage & Communication",2024-Q1,Riyadh,92423
+913,Financial and insurance activities,"Finance , Insurance and Business sevices",2024-Q1,Riyadh,76336
+914,Real estate activities,Real Estate,2024-Q1,Riyadh,25438
+915,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2024-Q1,Riyadh,154615
+89,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2020-Q1,KSA,101185
+90,Mining and quarrying,Mining & Quarrying,2020-Q1,KSA,187677
+91,Manufacturing,Manufacturing,2020-Q1,KSA,830945
+92,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2020-Q1,KSA,90251
+93,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2020-Q1,KSA,17369
+94,Construction,Construction,2020-Q1,KSA,2304076
+95,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q1,KSA,1952461
+96,Transportation and storage,"Transport, Storage & Communication",2020-Q1,KSA,243323
+97,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q1,KSA,416727
+98,Information and communication,"Transport, Storage & Communication",2020-Q1,KSA,73316
+99,Financial and insurance activities,"Finance , Insurance and Business sevices",2020-Q1,KSA,75082
+100,Real estate activities,Real Estate,2020-Q1,KSA,36874
+101,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2020-Q1,KSA,144121
+111,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2020-Q2,KSA,104692
+112,Mining and quarrying,Mining & Quarrying,2020-Q2,KSA,186193
+113,Manufacturing,Manufacturing,2020-Q2,KSA,830511
+114,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2020-Q2,KSA,86442
+115,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2020-Q2,KSA,17212
+116,Construction,Construction,2020-Q2,KSA,2278965
+117,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q2,KSA,1940320
+118,Transportation and storage,"Transport, Storage & Communication",2020-Q2,KSA,244628
+119,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q2,KSA,415626
+120,Information and communication,"Transport, Storage & Communication",2020-Q2,KSA,73029
+121,Financial and insurance activities,"Finance , Insurance and Business sevices",2020-Q2,KSA,74772
+122,Real estate activities,Real Estate,2020-Q2,KSA,37306
+123,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2020-Q2,KSA,140855
+133,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2020-Q3,KSA,104466
+134,Mining and quarrying,Mining & Quarrying,2020-Q3,KSA,182321
+135,Manufacturing,Manufacturing,2020-Q3,KSA,831137
+136,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2020-Q3,KSA,83056
+137,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2020-Q3,KSA,17076
+138,Construction,Construction,2020-Q3,KSA,2195195
+139,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q3,KSA,1928671
+140,Transportation and storage,"Transport, Storage & Communication",2020-Q3,KSA,245070
+141,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q3,KSA,420587
+142,Information and communication,"Transport, Storage & Communication",2020-Q3,KSA,73704
+143,Financial and insurance activities,"Finance , Insurance and Business sevices",2020-Q3,KSA,74948
+144,Real estate activities,Real Estate,2020-Q3,KSA,37551
+145,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2020-Q3,KSA,134901
+551,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2020-Q1,Riyadh,41339
+552,Mining and quarrying,Mining & Quarrying,2020-Q1,Riyadh,9962
+553,Manufacturing,Manufacturing,2020-Q1,Riyadh,290261
+554,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2020-Q1,Riyadh,45921
+555,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2020-Q1,Riyadh,5218
+556,Construction,Construction,2020-Q1,Riyadh,719538
+557,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q1,Riyadh,845164
+558,Transportation and storage,"Transport, Storage & Communication",2020-Q1,Riyadh,80728
+559,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q1,Riyadh,124693
+560,Information and communication,"Transport, Storage & Communication",2020-Q1,Riyadh,54983
+561,Financial and insurance activities,"Finance , Insurance and Business sevices",2020-Q1,Riyadh,52428
+562,Real estate activities,Real Estate,2020-Q1,Riyadh,18677
+563,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2020-Q1,Riyadh,75929
+573,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2020-Q2,Riyadh,42287
+574,Mining and quarrying,Mining & Quarrying,2020-Q2,Riyadh,10081
+575,Manufacturing,Manufacturing,2020-Q2,Riyadh,289415
+576,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2020-Q2,Riyadh,45258
+577,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2020-Q2,Riyadh,5219
+578,Construction,Construction,2020-Q2,Riyadh,713274
+579,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q2,Riyadh,838013
+580,Transportation and storage,"Transport, Storage & Communication",2020-Q2,Riyadh,80795
+581,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q2,Riyadh,123117
+582,Information and communication,"Transport, Storage & Communication",2020-Q2,Riyadh,54648
+583,Financial and insurance activities,"Finance , Insurance and Business sevices",2020-Q2,Riyadh,52361
+584,Real estate activities,Real Estate,2020-Q2,Riyadh,18850
+585,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2020-Q2,Riyadh,72385
+595,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2020-Q3,Riyadh,41806
+596,Mining and quarrying,Mining & Quarrying,2020-Q3,Riyadh,9800
+597,Manufacturing,Manufacturing,2020-Q3,Riyadh,290021
+598,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2020-Q3,Riyadh,42548
+599,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2020-Q3,Riyadh,5052
+600,Construction,Construction,2020-Q3,Riyadh,683458
+601,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q3,Riyadh,823674
+602,Transportation and storage,"Transport, Storage & Communication",2020-Q3,Riyadh,82790
+603,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2020-Q3,Riyadh,126168
+604,Information and communication,"Transport, Storage & Communication",2020-Q3,Riyadh,55080
+605,Financial and insurance activities,"Finance , Insurance and Business sevices",2020-Q3,Riyadh,52482
+606,Real estate activities,Real Estate,2020-Q3,Riyadh,19002
+607,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2020-Q3,Riyadh,66591
+353,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q1,KSA,521309
+354,Mining and quarrying,Mining & Quarrying,2023-Q1,KSA,146455
+355,Manufacturing,Manufacturing,2023-Q1,KSA,1086782
+356,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q1,KSA,39011
+357,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q1,KSA,122329
+358,Construction,Construction,2023-Q1,KSA,2540702
+359,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q1,KSA,1653550
+360,Transportation and storage,"Transport, Storage & Communication",2023-Q1,KSA,459542
+361,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q1,KSA,694182
+362,Information and communication,"Transport, Storage & Communication",2023-Q1,KSA,123307
+363,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q1,KSA,92274
+364,Real estate activities,Real Estate,2023-Q1,KSA,55674
+365,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q1,KSA,225340
+375,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q2,KSA,540603
+376,Mining and quarrying,Mining & Quarrying,2023-Q2,KSA,157758
+377,Manufacturing,Manufacturing,2023-Q2,KSA,1123456
+378,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q2,KSA,38498
+379,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q2,KSA,129086
+380,Construction,Construction,2023-Q2,KSA,2541815
+381,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q2,KSA,1629081
+382,Transportation and storage,"Transport, Storage & Communication",2023-Q2,KSA,467109
+383,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q2,KSA,686139
+384,Information and communication,"Transport, Storage & Communication",2023-Q2,KSA,118538
+385,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q2,KSA,92610
+386,Real estate activities,Real Estate,2023-Q2,KSA,54738
+387,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q2,KSA,228288
+397,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q3,KSA,139654
+398,Mining and quarrying,Mining & Quarrying,2023-Q3,KSA,160780
+399,Manufacturing,Manufacturing,2023-Q3,KSA,1184551
+400,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q3,KSA,38418
+401,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q3,KSA,152013
+402,Construction,Construction,2023-Q3,KSA,2608274
+403,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q3,KSA,1621497
+404,Transportation and storage,"Transport, Storage & Communication",2023-Q3,KSA,494242
+405,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q3,KSA,686468
+406,Information and communication,"Transport, Storage & Communication",2023-Q3,KSA,106607
+407,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q3,KSA,93314
+408,Real estate activities,Real Estate,2023-Q3,KSA,53671
+409,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q3,KSA,234837
+419,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q4,KSA,142402
+420,Mining and quarrying,Mining & Quarrying,2023-Q4,KSA,166204
+421,Manufacturing,Manufacturing,2023-Q4,KSA,1211398
+422,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q4,KSA,39317
+423,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q4,KSA,156994
+424,Construction,Construction,2023-Q4,KSA,2617187
+425,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q4,KSA,1616873
+426,Transportation and storage,"Transport, Storage & Communication",2023-Q4,KSA,503243
+427,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q4,KSA,673976
+428,Information and communication,"Transport, Storage & Communication",2023-Q4,KSA,104389
+429,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q4,KSA,95184
+430,Real estate activities,Real Estate,2023-Q4,KSA,52808
+431,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q4,KSA,242103
+815,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q1,Riyadh,385244
+816,Mining and quarrying,Mining & Quarrying,2023-Q1,Riyadh,9763
+817,Manufacturing,Manufacturing,2023-Q1,Riyadh,423599
+818,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q1,Riyadh,13719
+819,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q1,Riyadh,79132
+820,Construction,Construction,2023-Q1,Riyadh,1021158
+821,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q1,Riyadh,605853
+822,Transportation and storage,"Transport, Storage & Communication",2023-Q1,Riyadh,195270
+823,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q1,Riyadh,226822
+824,Information and communication,"Transport, Storage & Communication",2023-Q1,Riyadh,103579
+825,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q1,Riyadh,72184
+826,Real estate activities,Real Estate,2023-Q1,Riyadh,26867
+827,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q1,Riyadh,134535
+837,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q2,Riyadh,401199
+838,Mining and quarrying,Mining & Quarrying,2023-Q2,Riyadh,13578
+839,Manufacturing,Manufacturing,2023-Q2,Riyadh,437116
+840,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q2,Riyadh,13381
+841,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q2,Riyadh,81025
+842,Construction,Construction,2023-Q2,Riyadh,1029437
+843,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q2,Riyadh,593527
+844,Transportation and storage,"Transport, Storage & Communication",2023-Q2,Riyadh,201534
+845,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q2,Riyadh,224402
+846,Information and communication,"Transport, Storage & Communication",2023-Q2,Riyadh,98880
+847,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q2,Riyadh,72722
+848,Real estate activities,Real Estate,2023-Q2,Riyadh,26849
+849,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q2,Riyadh,137530
+859,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q3,Riyadh,56994
+860,Mining and quarrying,Mining & Quarrying,2023-Q3,Riyadh,16119
+861,Manufacturing,Manufacturing,2023-Q3,Riyadh,475340
+862,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q3,Riyadh,13489
+863,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q3,Riyadh,96896
+864,Construction,Construction,2023-Q3,Riyadh,1069075
+865,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q3,Riyadh,588840
+866,Transportation and storage,"Transport, Storage & Communication",2023-Q3,Riyadh,221266
+867,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q3,Riyadh,222211
+868,Information and communication,"Transport, Storage & Communication",2023-Q3,Riyadh,87710
+869,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q3,Riyadh,73453
+870,Real estate activities,Real Estate,2023-Q3,Riyadh,25487
+871,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q3,Riyadh,142032
+881,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2023-Q4,Riyadh,59809
+882,Mining and quarrying,Mining & Quarrying,2023-Q4,Riyadh,17981
+883,Manufacturing,Manufacturing,2023-Q4,Riyadh,495881
+884,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2023-Q4,Riyadh,13500
+885,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2023-Q4,Riyadh,94744
+886,Construction,Construction,2023-Q4,Riyadh,1070763
+887,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q4,Riyadh,593657
+888,Transportation and storage,"Transport, Storage & Communication",2023-Q4,Riyadh,228733
+889,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2023-Q4,Riyadh,217835
+890,Information and communication,"Transport, Storage & Communication",2023-Q4,Riyadh,86008
+891,Financial and insurance activities,"Finance , Insurance and Business sevices",2023-Q4,Riyadh,75390
+892,Real estate activities,Real Estate,2023-Q4,Riyadh,24549
+893,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2023-Q4,Riyadh,148805
+265,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q1,KSA,132269
+266,Mining and quarrying,Mining & Quarrying,2022-Q1,KSA,171620
+267,Manufacturing,Manufacturing,2022-Q1,KSA,892895
+268,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q1,KSA,79442
+269,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q1,KSA,29025
+270,Construction,Construction,2022-Q1,KSA,2152344
+271,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q1,KSA,1820040
+272,Transportation and storage,"Transport, Storage & Communication",2022-Q1,KSA,319753
+273,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q1,KSA,671247
+274,Information and communication,"Transport, Storage & Communication",2022-Q1,KSA,84090
+275,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q1,KSA,79815
+276,Real estate activities,Real Estate,2022-Q1,KSA,39807
+277,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q1,KSA,153113
+287,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q2,KSA,181046
+288,Mining and quarrying,Mining & Quarrying,2022-Q2,KSA,142153
+289,Manufacturing,Manufacturing,2022-Q2,KSA,943887
+290,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q2,KSA,40157
+291,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q2,KSA,87941
+292,Construction,Construction,2022-Q2,KSA,2453723
+293,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q2,KSA,1719838
+294,Transportation and storage,"Transport, Storage & Communication",2022-Q2,KSA,406735
+295,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q2,KSA,653310
+296,Information and communication,"Transport, Storage & Communication",2022-Q2,KSA,123491
+297,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q2,KSA,88780
+298,Real estate activities,Real Estate,2022-Q2,KSA,66181
+299,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q2,KSA,196824
+309,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q3,KSA,257591
+310,Mining and quarrying,Mining & Quarrying,2022-Q3,KSA,139605
+311,Manufacturing,Manufacturing,2022-Q3,KSA,1025301
+312,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q3,KSA,39696
+313,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q3,KSA,100916
+314,Construction,Construction,2022-Q3,KSA,2454102
+315,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q3,KSA,1643041
+316,Transportation and storage,"Transport, Storage & Communication",2022-Q3,KSA,435650
+317,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q3,KSA,673638
+318,Information and communication,"Transport, Storage & Communication",2022-Q3,KSA,122031
+319,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q3,KSA,90393
+320,Real estate activities,Real Estate,2022-Q3,KSA,53224
+321,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q3,KSA,207882
+331,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q4,KSA,354795
+332,Mining and quarrying,Mining & Quarrying,2022-Q4,KSA,141816
+333,Manufacturing,Manufacturing,2022-Q4,KSA,1033933
+334,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q4,KSA,39390
+335,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q4,KSA,106556
+336,Construction,Construction,2022-Q4,KSA,2460230
+337,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q4,KSA,1626050
+338,Transportation and storage,"Transport, Storage & Communication",2022-Q4,KSA,439565
+339,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q4,KSA,675154
+340,Information and communication,"Transport, Storage & Communication",2022-Q4,KSA,123331
+341,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q4,KSA,91291
+342,Real estate activities,Real Estate,2022-Q4,KSA,54627
+343,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q4,KSA,213687
+727,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q1,Riyadh,61589
+728,Mining and quarrying,Mining & Quarrying,2022-Q1,Riyadh,12981
+729,Manufacturing,Manufacturing,2022-Q1,Riyadh,332051
+730,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q1,Riyadh,40347
+731,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q1,Riyadh,15086
+732,Construction,Construction,2022-Q1,Riyadh,757037
+733,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q1,Riyadh,769437
+734,Transportation and storage,"Transport, Storage & Communication",2022-Q1,Riyadh,128563
+735,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q1,Riyadh,225438
+736,Information and communication,"Transport, Storage & Communication",2022-Q1,Riyadh,65002
+737,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q1,Riyadh,55391
+738,Real estate activities,Real Estate,2022-Q1,Riyadh,20165
+739,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q1,Riyadh,77022
+749,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q2,Riyadh,109540
+750,Mining and quarrying,Mining & Quarrying,2022-Q2,Riyadh,10625
+751,Manufacturing,Manufacturing,2022-Q2,Riyadh,351357
+752,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q2,Riyadh,14825
+753,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q2,Riyadh,50220
+754,Construction,Construction,2022-Q2,Riyadh,956501
+755,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q2,Riyadh,653779
+756,Transportation and storage,"Transport, Storage & Communication",2022-Q2,Riyadh,172317
+757,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q2,Riyadh,212913
+758,Information and communication,"Transport, Storage & Communication",2022-Q2,Riyadh,102614
+759,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q2,Riyadh,58789
+760,Real estate activities,Real Estate,2022-Q2,Riyadh,31733
+761,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q2,Riyadh,101303
+771,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q3,Riyadh,164182
+772,Mining and quarrying,Mining & Quarrying,2022-Q3,Riyadh,9112
+773,Manufacturing,Manufacturing,2022-Q3,Riyadh,398259
+774,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q3,Riyadh,13781
+775,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q3,Riyadh,65944
+776,Construction,Construction,2022-Q3,Riyadh,977871
+777,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q3,Riyadh,608802
+778,Transportation and storage,"Transport, Storage & Communication",2022-Q3,Riyadh,187773
+779,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q3,Riyadh,212711
+780,Information and communication,"Transport, Storage & Communication",2022-Q3,Riyadh,102631
+781,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q3,Riyadh,69256
+782,Real estate activities,Real Estate,2022-Q3,Riyadh,25245
+783,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q3,Riyadh,120202
+793,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2022-Q4,Riyadh,248575
+794,Mining and quarrying,Mining & Quarrying,2022-Q4,Riyadh,8829
+795,Manufacturing,Manufacturing,2022-Q4,Riyadh,401619
+796,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2022-Q4,Riyadh,13818
+797,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2022-Q4,Riyadh,71441
+798,Construction,Construction,2022-Q4,Riyadh,972584
+799,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q4,Riyadh,596681
+800,Transportation and storage,"Transport, Storage & Communication",2022-Q4,Riyadh,187842
+801,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2022-Q4,Riyadh,216208
+802,Information and communication,"Transport, Storage & Communication",2022-Q4,Riyadh,103885
+803,Financial and insurance activities,"Finance , Insurance and Business sevices",2022-Q4,Riyadh,71387
+804,Real estate activities,Real Estate,2022-Q4,Riyadh,26058
+805,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2022-Q4,Riyadh,124032
+1,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q1,KSA,94071
+2,Mining and quarrying,Mining & Quarrying,2019-Q1,KSA,179280
+3,Manufacturing,Manufacturing,2019-Q1,KSA,847482
+4,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q1,KSA,89976
+5,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q1,KSA,16917
+6,Construction,Construction,2019-Q1,KSA,2474372
+7,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q1,KSA,2049245
+8,Transportation and storage,"Transport, Storage & Communication",2019-Q1,KSA,242151
+9,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q1,KSA,407957
+10,Information and communication,"Transport, Storage & Communication",2019-Q1,KSA,70555
+11,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q1,KSA,74401
+12,Real estate activities,Real Estate,2019-Q1,KSA,36152
+13,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q1,KSA,138354
+23,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q2,KSA,84066
+24,Mining and quarrying,Mining & Quarrying,2019-Q2,KSA,179973
+25,Manufacturing,Manufacturing,2019-Q2,KSA,838986
+26,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q2,KSA,90759
+27,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q2,KSA,16805
+28,Construction,Construction,2019-Q2,KSA,2357165
+29,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q2,KSA,2000368
+30,Transportation and storage,"Transport, Storage & Communication",2019-Q2,KSA,241227
+31,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q2,KSA,404651
+32,Information and communication,"Transport, Storage & Communication",2019-Q2,KSA,70223
+33,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q2,KSA,73592
+34,Real estate activities,Real Estate,2019-Q2,KSA,35592
+35,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q2,KSA,136142
+45,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q3,KSA,84469
+46,Mining and quarrying,Mining & Quarrying,2019-Q3,KSA,181588
+47,Manufacturing,Manufacturing,2019-Q3,KSA,830587
+48,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q3,KSA,91278
+49,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q3,KSA,16870
+50,Construction,Construction,2019-Q3,KSA,2308339
+51,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q3,KSA,1965063
+52,Transportation and storage,"Transport, Storage & Communication",2019-Q3,KSA,244411
+53,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q3,KSA,401134
+54,Information and communication,"Transport, Storage & Communication",2019-Q3,KSA,70774
+55,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q3,KSA,73588
+56,Real estate activities,Real Estate,2019-Q3,KSA,35402
+57,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q3,KSA,141221
+67,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q4,KSA,85240
+68,Mining and quarrying,Mining & Quarrying,2019-Q4,KSA,184529
+69,Manufacturing,Manufacturing,2019-Q4,KSA,824736
+70,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q4,KSA,91048
+71,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q4,KSA,16953
+72,Construction,Construction,2019-Q4,KSA,2252257
+73,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q4,KSA,1937468
+74,Transportation and storage,"Transport, Storage & Communication",2019-Q4,KSA,241397
+75,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q4,KSA,403651
+76,Information and communication,"Transport, Storage & Communication",2019-Q4,KSA,72082
+77,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q4,KSA,74291
+78,Real estate activities,Real Estate,2019-Q4,KSA,35611
+79,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q4,KSA,140253
+463,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q1,Riyadh,35220
+464,Mining and quarrying,Mining & Quarrying,2019-Q1,Riyadh,8568
+465,Manufacturing,Manufacturing,2019-Q1,Riyadh,287654
+466,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q1,Riyadh,45232
+467,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q1,Riyadh,5598
+468,Construction,Construction,2019-Q1,Riyadh,742456
+469,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q1,Riyadh,877201
+470,Transportation and storage,"Transport, Storage & Communication",2019-Q1,Riyadh,79759
+471,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q1,Riyadh,119879
+472,Information and communication,"Transport, Storage & Communication",2019-Q1,Riyadh,52211
+473,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q1,Riyadh,51759
+474,Real estate activities,Real Estate,2019-Q1,Riyadh,17762
+475,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q1,Riyadh,69354
+485,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q2,Riyadh,35972
+486,Mining and quarrying,Mining & Quarrying,2019-Q2,Riyadh,8509
+487,Manufacturing,Manufacturing,2019-Q2,Riyadh,282286
+488,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q2,Riyadh,46424
+489,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q2,Riyadh,5502
+490,Construction,Construction,2019-Q2,Riyadh,711574
+491,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q2,Riyadh,856175
+492,Transportation and storage,"Transport, Storage & Communication",2019-Q2,Riyadh,80184
+493,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q2,Riyadh,119201
+494,Information and communication,"Transport, Storage & Communication",2019-Q2,Riyadh,52189
+495,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q2,Riyadh,51540
+496,Real estate activities,Real Estate,2019-Q2,Riyadh,17654
+497,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q2,Riyadh,68941
+507,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q3,Riyadh,36994
+508,Mining and quarrying,Mining & Quarrying,2019-Q3,Riyadh,8837
+509,Manufacturing,Manufacturing,2019-Q3,Riyadh,280294
+510,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q3,Riyadh,47219
+511,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q3,Riyadh,5449
+512,Construction,Construction,2019-Q3,Riyadh,700907
+513,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q3,Riyadh,840620
+514,Transportation and storage,"Transport, Storage & Communication",2019-Q3,Riyadh,79423
+515,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q3,Riyadh,118116
+516,Information and communication,"Transport, Storage & Communication",2019-Q3,Riyadh,52806
+517,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q3,Riyadh,51716
+518,Real estate activities,Real Estate,2019-Q3,Riyadh,17758
+519,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q3,Riyadh,73460
+529,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2019-Q4,Riyadh,38326
+530,Mining and quarrying,Mining & Quarrying,2019-Q4,Riyadh,9058
+531,Manufacturing,Manufacturing,2019-Q4,Riyadh,281882
+532,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2019-Q4,Riyadh,46945
+533,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2019-Q4,Riyadh,5358
+534,Construction,Construction,2019-Q4,Riyadh,689342
+535,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q4,Riyadh,834759
+536,Transportation and storage,"Transport, Storage & Communication",2019-Q4,Riyadh,79095
+537,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2019-Q4,Riyadh,119583
+538,Information and communication,"Transport, Storage & Communication",2019-Q4,Riyadh,54219
+539,Financial and insurance activities,"Finance , Insurance and Business sevices",2019-Q4,Riyadh,52154
+540,Real estate activities,Real Estate,2019-Q4,Riyadh,17865
+541,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2019-Q4,Riyadh,73704
+155,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q4,KSA,105391
+156,Mining and quarrying,Mining & Quarrying,2021-Q4,KSA,178062
+157,Manufacturing,Manufacturing,2021-Q4,KSA,825975
+158,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q4,KSA,80679
+159,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q4,KSA,19245
+160,Construction,Construction,2021-Q4,KSA,2126216
+161,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,KSA,1893542
+162,Transportation and storage,"Transport, Storage & Communication",2021-Q4,KSA,255182
+163,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,KSA,432419
+164,Information and communication,"Transport, Storage & Communication",2021-Q4,KSA,75178
+165,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q4,KSA,74871
+166,Real estate activities,Real Estate,2021-Q4,KSA,37464
+167,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q4,KSA,133059
+177,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q1,KSA,106300
+178,Mining and quarrying,Mining & Quarrying,2021-Q1,KSA,175106
+179,Manufacturing,Manufacturing,2021-Q1,KSA,837784
+180,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q1,KSA,78355
+181,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q1,KSA,23609
+182,Construction,Construction,2021-Q1,KSA,2115514
+183,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q1,KSA,1872576
+184,Transportation and storage,"Transport, Storage & Communication",2021-Q1,KSA,258374
+185,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q1,KSA,386386
+186,Information and communication,"Transport, Storage & Communication",2021-Q1,KSA,79594
+187,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q1,KSA,76468
+188,Real estate activities,Real Estate,2021-Q1,KSA,38231
+189,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q1,KSA,133011
+199,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q2,KSA,103627
+200,Mining and quarrying,Mining & Quarrying,2021-Q2,KSA,173230
+201,Manufacturing,Manufacturing,2021-Q2,KSA,827037
+202,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q2,KSA,78442
+203,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q2,KSA,23578
+204,Construction,Construction,2021-Q2,KSA,2029594
+205,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q2,KSA,1828219
+206,Transportation and storage,"Transport, Storage & Communication",2021-Q2,KSA,260938
+207,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q2,KSA,381488
+208,Information and communication,"Transport, Storage & Communication",2021-Q2,KSA,78762
+209,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q2,KSA,76810
+210,Real estate activities,Real Estate,2021-Q2,KSA,38134
+211,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q2,KSA,131885
+221,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q3,KSA,102094
+222,Mining and quarrying,Mining & Quarrying,2021-Q3,KSA,173224
+223,Manufacturing,Manufacturing,2021-Q3,KSA,830836
+224,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q3,KSA,77763
+225,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q3,KSA,23221
+226,Construction,Construction,2021-Q3,KSA,1996612
+227,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q3,KSA,1813880
+228,Transportation and storage,"Transport, Storage & Communication",2021-Q3,KSA,264794
+229,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q3,KSA,390819
+230,Information and communication,"Transport, Storage & Communication",2021-Q3,KSA,80821
+231,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q3,KSA,77191
+232,Real estate activities,Real Estate,2021-Q3,KSA,39207
+233,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q3,KSA,133323
+243,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q4,KSA,106710
+244,Mining and quarrying,Mining & Quarrying,2021-Q4,KSA,176650
+245,Manufacturing,Manufacturing,2021-Q4,KSA,852925
+246,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q4,KSA,78129
+247,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q4,KSA,23850
+248,Construction,Construction,2021-Q4,KSA,2058439
+249,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,KSA,1790879
+250,Transportation and storage,"Transport, Storage & Communication",2021-Q4,KSA,281064
+251,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,KSA,555301
+252,Information and communication,"Transport, Storage & Communication",2021-Q4,KSA,82149
+253,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q4,KSA,77924
+254,Real estate activities,Real Estate,2021-Q4,KSA,39303
+255,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q4,KSA,138157
+617,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q4,Riyadh,41806
+618,Mining and quarrying,Mining & Quarrying,2021-Q4,Riyadh,9800
+619,Manufacturing,Manufacturing,2021-Q4,Riyadh,290021
+620,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q4,Riyadh,42548
+621,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q4,Riyadh,5052
+622,Construction,Construction,2021-Q4,Riyadh,683458
+623,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,Riyadh,823674
+624,Transportation and storage,"Transport, Storage & Communication",2021-Q4,Riyadh,82790
+625,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,Riyadh,126168
+626,Information and communication,"Transport, Storage & Communication",2021-Q4,Riyadh,55080
+627,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q4,Riyadh,52482
+628,Real estate activities,Real Estate,2021-Q4,Riyadh,19002
+629,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q4,Riyadh,66591
+639,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q1,Riyadh,41806
+640,Mining and quarrying,Mining & Quarrying,2021-Q1,Riyadh,9800
+641,Manufacturing,Manufacturing,2021-Q1,Riyadh,290021
+642,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q1,Riyadh,42548
+643,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q1,Riyadh,5052
+644,Construction,Construction,2021-Q1,Riyadh,683458
+645,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q1,Riyadh,823674
+646,Transportation and storage,"Transport, Storage & Communication",2021-Q1,Riyadh,82790
+647,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q1,Riyadh,126168
+648,Information and communication,"Transport, Storage & Communication",2021-Q1,Riyadh,55080
+649,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q1,Riyadh,52482
+650,Real estate activities,Real Estate,2021-Q1,Riyadh,19002
+651,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q1,Riyadh,66591
+661,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q2,Riyadh,41806
+662,Mining and quarrying,Mining & Quarrying,2021-Q2,Riyadh,9800
+663,Manufacturing,Manufacturing,2021-Q2,Riyadh,290021
+664,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q2,Riyadh,42548
+665,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q2,Riyadh,5052
+666,Construction,Construction,2021-Q2,Riyadh,683458
+667,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q2,Riyadh,823674
+668,Transportation and storage,"Transport, Storage & Communication",2021-Q2,Riyadh,82790
+669,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q2,Riyadh,126168
+670,Information and communication,"Transport, Storage & Communication",2021-Q2,Riyadh,55080
+671,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q2,Riyadh,52482
+672,Real estate activities,Real Estate,2021-Q2,Riyadh,19002
+673,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q2,Riyadh,66591
+683,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q3,Riyadh,43118
+684,Mining and quarrying,Mining & Quarrying,2021-Q3,Riyadh,9934
+685,Manufacturing,Manufacturing,2021-Q3,Riyadh,301891
+686,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q3,Riyadh,38298
+687,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q3,Riyadh,11484
+688,Construction,Construction,2021-Q3,Riyadh,650000
+689,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q3,Riyadh,779121
+690,Transportation and storage,"Transport, Storage & Communication",2021-Q3,Riyadh,100090
+691,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q3,Riyadh,121911
+692,Information and communication,"Transport, Storage & Communication",2021-Q3,Riyadh,62788
+693,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q3,Riyadh,52185
+694,Real estate activities,Real Estate,2021-Q3,Riyadh,20293
+695,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q3,Riyadh,65110
+705,"Agriculture, forestry and fishing","Agriculture, Forestry & Fishing",2021-Q4,Riyadh,43118
+706,Mining and quarrying,Mining & Quarrying,2021-Q4,Riyadh,9934
+707,Manufacturing,Manufacturing,2021-Q4,Riyadh,301891
+708,"Electricity, gas, steam and air conditioning supply","Electricity, Gas and Water",2021-Q4,Riyadh,38298
+709,"Water supply; sewerage, waste management and remediation activities","Electricity, Gas and Water",2021-Q4,Riyadh,11484
+710,Construction,Construction,2021-Q4,Riyadh,650000
+711,Wholesale and retail trade; repair of motor vehicles and motorcycles,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,Riyadh,779121
+712,Transportation and storage,"Transport, Storage & Communication",2021-Q4,Riyadh,100090
+713,Accommodation and food service activities,"Wholesale & Retail Trade, Restaurants & hotels",2021-Q4,Riyadh,121911
+714,Information and communication,"Transport, Storage & Communication",2021-Q4,Riyadh,62788
+715,Financial and insurance activities,"Finance , Insurance and Business sevices",2021-Q4,Riyadh,52185
+716,Real estate activities,Real Estate,2021-Q4,Riyadh,20293
+717,"Professional, scientific and technical activities","Finance , Insurance and Business sevices",2021-Q4,Riyadh,65110

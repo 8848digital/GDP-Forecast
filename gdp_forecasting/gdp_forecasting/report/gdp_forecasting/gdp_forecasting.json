@@ -1,0 +1,48 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-11-06 18:51:43.943618",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [
+  {
+   "fieldname": "forecast",
+   "fieldtype": "Select",
+   "label": "Forecast Type",
+   "mandatory": 1,
+   "options": "Annual Forecast\nQuarterly Forecast",
+   "wildcard_filter": 0
+  }
+ ],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{}",
+ "letter_head": "footer",
+ "modified": "2024-11-07 09:22:42.207049",
+ "modified_by": "admin@example.com",
+ "module": "GDP forecasting",
+ "name": "GDP Forecasting",
+ "owner": "admin@example.com",
+ "prepared_report": 1,
+ "query": "SELECT * FROM `holt_winters_quarterly`query_result = frappe.db.sql(\"SELECT * FROM `tabQuarterly Dataset`\", as_dict=True)",
+ "ref_doctype": "Item",
+ "report_name": "GDP Forecasting",
+ "report_script": "if filters.forecast = 'Annual':\n    result = frappe.db.sql(\"SELECT * FROM `tabQuarterly Dataset`\", as_dict=True)\n    \ndata = [result]\n    ",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "System Analyst"
+  },
+  {
+   "role": "Employee"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ]
+}

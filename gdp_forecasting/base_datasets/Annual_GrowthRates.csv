@@ -1,0 +1,625 @@
+Sector,Growth Rate,Year,Value
+"Agriculture, Forestry & Fishing",LOW,2015,29564.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2015,29564.0
+"Agriculture, Forestry & Fishing",HIGH,2015,29564.0
+Mining & Quarrying,LOW,2015,45935.0
+Mining & Quarrying,STEADY STATE,2015,45935.0
+Mining & Quarrying,HIGH,2015,45935.0
+Manufacturing,LOW,2015,130119.0
+Manufacturing,STEADY STATE,2015,130119.0
+Manufacturing,HIGH,2015,130119.0
+"Electricity, Gas and Water",LOW,2015,22625.0
+"Electricity, Gas and Water",STEADY STATE,2015,22625.0
+"Electricity, Gas and Water",HIGH,2015,22625.0
+Construction,LOW,2015,51869.0
+Construction,STEADY STATE,2015,51869.0
+Construction,HIGH,2015,51869.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2015,117490.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2015,117490.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2015,117490.0
+"Transport, Storage & Communication",LOW,2015,68080.0
+"Transport, Storage & Communication",STEADY STATE,2015,68080.0
+"Transport, Storage & Communication",HIGH,2015,68080.0
+Real Estate,LOW,2015,92060.0
+Real Estate,STEADY STATE,2015,92060.0
+Real Estate,HIGH,2015,92060.0
+"Finance, Insurance and Business services",LOW,2015,80464.0
+"Finance, Insurance and Business services",STEADY STATE,2015,80464.0
+"Finance, Insurance and Business services",HIGH,2015,80464.0
+"Community, Social & Personal Services",LOW,2015,40843.0
+"Community, Social & Personal Services",STEADY STATE,2015,40843.0
+"Community, Social & Personal Services",HIGH,2015,40843.0
+Government Activities,LOW,2015,249669.0
+Government Activities,STEADY STATE,2015,249669.0
+Government Activities,HIGH,2015,249669.0
+Riyadh GDP,LOW,2015,934949.0
+Riyadh GDP,STEADY STATE,2015,934949.0
+Riyadh GDP,HIGH,2015,934949.0
+Saudi Arabia GDP,LOW,2015,2992113.0
+Saudi Arabia GDP,STEADY STATE,2015,2992113.0
+Saudi Arabia GDP,HIGH,2015,2992113.0
+"Agriculture, Forestry & Fishing",LOW,2016,31126.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2016,31126.0
+"Agriculture, Forestry & Fishing",HIGH,2016,31126.0
+Mining & Quarrying,LOW,2016,47185.0
+Mining & Quarrying,STEADY STATE,2016,47185.0
+Mining & Quarrying,HIGH,2016,47185.0
+Manufacturing,LOW,2016,134767.0
+Manufacturing,STEADY STATE,2016,134767.0
+Manufacturing,HIGH,2016,134767.0
+"Electricity, Gas and Water",LOW,2016,23825.0
+"Electricity, Gas and Water",STEADY STATE,2016,23825.0
+"Electricity, Gas and Water",HIGH,2016,23825.0
+Construction,LOW,2016,49996.0
+Construction,STEADY STATE,2016,49996.0
+Construction,HIGH,2016,49996.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2016,117006.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2016,117006.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2016,117006.0
+"Transport, Storage & Communication",LOW,2016,69998.0
+"Transport, Storage & Communication",STEADY STATE,2016,69998.0
+"Transport, Storage & Communication",HIGH,2016,69998.0
+Real Estate,LOW,2016,94623.0
+Real Estate,STEADY STATE,2016,94623.0
+Real Estate,HIGH,2016,94623.0
+"Finance, Insurance and Business services",LOW,2016,82549.0
+"Finance, Insurance and Business services",STEADY STATE,2016,82549.0
+"Finance, Insurance and Business services",HIGH,2016,82549.0
+"Community, Social & Personal Services",LOW,2016,46809.0
+"Community, Social & Personal Services",STEADY STATE,2016,46809.0
+"Community, Social & Personal Services",HIGH,2016,46809.0
+Government Activities,LOW,2016,248761.0
+Government Activities,STEADY STATE,2016,248761.0
+Government Activities,HIGH,2016,248761.0
+Riyadh GDP,LOW,2016,952791.0
+Riyadh GDP,STEADY STATE,2016,952791.0
+Riyadh GDP,HIGH,2016,952791.0
+Saudi Arabia GDP,LOW,2016,3048499.0
+Saudi Arabia GDP,STEADY STATE,2016,3048499.0
+Saudi Arabia GDP,HIGH,2016,3048499.0
+"Agriculture, Forestry & Fishing",LOW,2017,32489.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2017,32489.0
+"Agriculture, Forestry & Fishing",HIGH,2017,32489.0
+Mining & Quarrying,LOW,2017,45567.0
+Mining & Quarrying,STEADY STATE,2017,45567.0
+Mining & Quarrying,HIGH,2017,45567.0
+Manufacturing,LOW,2017,138912.0
+Manufacturing,STEADY STATE,2017,138912.0
+Manufacturing,HIGH,2017,138912.0
+"Electricity, Gas and Water",LOW,2017,24041.0
+"Electricity, Gas and Water",STEADY STATE,2017,24041.0
+"Electricity, Gas and Water",HIGH,2017,24041.0
+Construction,LOW,2017,48054.0
+Construction,STEADY STATE,2017,48054.0
+Construction,HIGH,2017,48054.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2017,118805.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2017,118805.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2017,118805.0
+"Transport, Storage & Communication",LOW,2017,71699.0
+"Transport, Storage & Communication",STEADY STATE,2017,71699.0
+"Transport, Storage & Communication",HIGH,2017,71699.0
+Real Estate,LOW,2017,99811.0
+Real Estate,STEADY STATE,2017,99811.0
+Real Estate,HIGH,2017,99811.0
+"Finance, Insurance and Business services",LOW,2017,86885.0
+"Finance, Insurance and Business services",STEADY STATE,2017,86885.0
+"Finance, Insurance and Business services",HIGH,2017,86885.0
+"Community, Social & Personal Services",LOW,2017,51951.0
+"Community, Social & Personal Services",STEADY STATE,2017,51951.0
+"Community, Social & Personal Services",HIGH,2017,51951.0
+Government Activities,LOW,2017,249492.0
+Government Activities,STEADY STATE,2017,249492.0
+Government Activities,HIGH,2017,249492.0
+Riyadh GDP,LOW,2017,973303.0
+Riyadh GDP,STEADY STATE,2017,973303.0
+Riyadh GDP,HIGH,2017,973303.0
+Saudi Arabia GDP,LOW,2017,3076272.0
+Saudi Arabia GDP,STEADY STATE,2017,3076272.0
+Saudi Arabia GDP,HIGH,2017,3076272.0
+"Agriculture, Forestry & Fishing",LOW,2018,33184.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2018,33184.0
+"Agriculture, Forestry & Fishing",HIGH,2018,33184.0
+Mining & Quarrying,LOW,2018,46865.0
+Mining & Quarrying,STEADY STATE,2018,46865.0
+Mining & Quarrying,HIGH,2018,46865.0
+Manufacturing,LOW,2018,135186.0
+Manufacturing,STEADY STATE,2018,135186.0
+Manufacturing,HIGH,2018,135186.0
+"Electricity, Gas and Water",LOW,2018,21209.0
+"Electricity, Gas and Water",STEADY STATE,2018,21209.0
+"Electricity, Gas and Water",HIGH,2018,21209.0
+Construction,LOW,2018,43848.0
+Construction,STEADY STATE,2018,43848.0
+Construction,HIGH,2018,43848.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2018,115385.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2018,115385.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2018,115385.0
+"Transport, Storage & Communication",LOW,2018,70540.0
+"Transport, Storage & Communication",STEADY STATE,2018,70540.0
+"Transport, Storage & Communication",HIGH,2018,70540.0
+Real Estate,LOW,2018,101397.0
+Real Estate,STEADY STATE,2018,101397.0
+Real Estate,HIGH,2018,101397.0
+"Finance, Insurance and Business services",LOW,2018,82481.0
+"Finance, Insurance and Business services",STEADY STATE,2018,82481.0
+"Finance, Insurance and Business services",HIGH,2018,82481.0
+"Community, Social & Personal Services",LOW,2018,52661.0
+"Community, Social & Personal Services",STEADY STATE,2018,52661.0
+"Community, Social & Personal Services",HIGH,2018,52661.0
+Government Activities,LOW,2018,259346.0
+Government Activities,STEADY STATE,2018,259346.0
+Government Activities,HIGH,2018,259346.0
+Riyadh GDP,LOW,2018,988487.0
+Riyadh GDP,STEADY STATE,2018,988487.0
+Riyadh GDP,HIGH,2018,988487.0
+Saudi Arabia GDP,LOW,2018,3174689.0
+Saudi Arabia GDP,STEADY STATE,2018,3174689.0
+Saudi Arabia GDP,HIGH,2018,3174689.0
+"Agriculture, Forestry & Fishing",LOW,2019,33893.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2019,33893.0
+"Agriculture, Forestry & Fishing",HIGH,2019,33893.0
+Mining & Quarrying,LOW,2019,45348.0
+Mining & Quarrying,STEADY STATE,2019,45348.0
+Mining & Quarrying,HIGH,2019,45348.0
+Manufacturing,LOW,2019,135377.0
+Manufacturing,STEADY STATE,2019,135377.0
+Manufacturing,HIGH,2019,135377.0
+"Electricity, Gas and Water",LOW,2019,21760.0
+"Electricity, Gas and Water",STEADY STATE,2019,21760.0
+"Electricity, Gas and Water",HIGH,2019,21760.0
+Construction,LOW,2019,45144.0
+Construction,STEADY STATE,2019,45144.0
+Construction,HIGH,2019,45144.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2019,123074.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2019,123074.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2019,123074.0
+"Transport, Storage & Communication",LOW,2019,74388.0
+"Transport, Storage & Communication",STEADY STATE,2019,74388.0
+"Transport, Storage & Communication",HIGH,2019,74388.0
+Real Estate,LOW,2019,104492.0
+Real Estate,STEADY STATE,2019,104492.0
+Real Estate,HIGH,2019,104492.0
+"Finance, Insurance and Business services",LOW,2019,85906.0
+"Finance, Insurance and Business services",STEADY STATE,2019,85906.0
+"Finance, Insurance and Business services",HIGH,2019,85906.0
+"Community, Social & Personal Services",LOW,2019,53711.0
+"Community, Social & Personal Services",STEADY STATE,2019,53711.0
+"Community, Social & Personal Services",HIGH,2019,53711.0
+Government Activities,LOW,2019,263841.0
+Government Activities,STEADY STATE,2019,263841.0
+Government Activities,HIGH,2019,263841.0
+Riyadh GDP,LOW,2019,1015937.0
+Riyadh GDP,STEADY STATE,2019,1015937.0
+Riyadh GDP,HIGH,2019,1015937.0
+Saudi Arabia GDP,LOW,2019,3209539.0
+Saudi Arabia GDP,STEADY STATE,2019,3209539.0
+Saudi Arabia GDP,HIGH,2019,3209539.0
+"Agriculture, Forestry & Fishing",LOW,2020,31850.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2020,31850.0
+"Agriculture, Forestry & Fishing",HIGH,2020,31850.0
+Mining & Quarrying,LOW,2020,47752.0
+Mining & Quarrying,STEADY STATE,2020,47752.0
+Mining & Quarrying,HIGH,2020,47752.0
+Manufacturing,LOW,2020,127881.0
+Manufacturing,STEADY STATE,2020,127881.0
+Manufacturing,HIGH,2020,127881.0
+"Electricity, Gas and Water",LOW,2020,20916.0
+"Electricity, Gas and Water",STEADY STATE,2020,20916.0
+"Electricity, Gas and Water",HIGH,2020,20916.0
+Construction,LOW,2020,47842.0
+Construction,STEADY STATE,2020,47842.0
+Construction,HIGH,2020,47842.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2020,115452.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2020,115452.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2020,115452.0
+"Transport, Storage & Communication",LOW,2020,69424.0
+"Transport, Storage & Communication",STEADY STATE,2020,69424.0
+"Transport, Storage & Communication",HIGH,2020,69424.0
+Real Estate,LOW,2020,107272.0
+Real Estate,STEADY STATE,2020,107272.0
+Real Estate,HIGH,2020,107272.0
+"Finance, Insurance and Business services",LOW,2020,92531.0
+"Finance, Insurance and Business services",STEADY STATE,2020,92531.0
+"Finance, Insurance and Business services",HIGH,2020,92531.0
+"Community, Social & Personal Services",LOW,2020,50616.0
+"Community, Social & Personal Services",STEADY STATE,2020,50616.0
+"Community, Social & Personal Services",HIGH,2020,50616.0
+Government Activities,LOW,2020,252344.0
+Government Activities,STEADY STATE,2020,252344.0
+Government Activities,HIGH,2020,252344.0
+Riyadh GDP,LOW,2020,993364.0
+Riyadh GDP,STEADY STATE,2020,993364.0
+Riyadh GDP,HIGH,2020,993364.0
+Saudi Arabia GDP,LOW,2020,3094588.0
+Saudi Arabia GDP,STEADY STATE,2020,3094588.0
+Saudi Arabia GDP,HIGH,2020,3094588.0
+"Agriculture, Forestry & Fishing",LOW,2021,32815.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2021,32815.0
+"Agriculture, Forestry & Fishing",HIGH,2021,32815.0
+Mining & Quarrying,LOW,2021,49388.0
+Mining & Quarrying,STEADY STATE,2021,49388.0
+Mining & Quarrying,HIGH,2021,49388.0
+Manufacturing,LOW,2021,140580.0
+Manufacturing,STEADY STATE,2021,140580.0
+Manufacturing,HIGH,2021,140580.0
+"Electricity, Gas and Water",LOW,2021,21854.0
+"Electricity, Gas and Water",STEADY STATE,2021,21854.0
+"Electricity, Gas and Water",HIGH,2021,21854.0
+Construction,LOW,2021,50152.0
+Construction,STEADY STATE,2021,50152.0
+Construction,HIGH,2021,50152.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2021,130565.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2021,130565.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2021,130565.0
+"Transport, Storage & Communication",LOW,2021,73054.0
+"Transport, Storage & Communication",STEADY STATE,2021,73054.0
+"Transport, Storage & Communication",HIGH,2021,73054.0
+Real Estate,LOW,2021,113548.0
+Real Estate,STEADY STATE,2021,113548.0
+Real Estate,HIGH,2021,113548.0
+"Finance, Insurance and Business services",LOW,2021,98193.0
+"Finance, Insurance and Business services",STEADY STATE,2021,98193.0
+"Finance, Insurance and Business services",HIGH,2021,98193.0
+"Community, Social & Personal Services",LOW,2021,59644.0
+"Community, Social & Personal Services",STEADY STATE,2021,59644.0
+"Community, Social & Personal Services",HIGH,2021,59644.0
+Government Activities,LOW,2021,261463.0
+Government Activities,STEADY STATE,2021,261463.0
+Government Activities,HIGH,2021,261463.0
+Riyadh GDP,LOW,2021,1066089.0
+Riyadh GDP,STEADY STATE,2021,1066089.0
+Riyadh GDP,HIGH,2021,1066089.0
+Saudi Arabia GDP,LOW,2021,3251642.0
+Saudi Arabia GDP,STEADY STATE,2021,3251642.0
+Saudi Arabia GDP,HIGH,2021,3251642.0
+"Agriculture, Forestry & Fishing",LOW,2022,53080.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2022,53080.0
+"Agriculture, Forestry & Fishing",HIGH,2022,53080.0
+Mining & Quarrying,LOW,2022,70562.0
+Mining & Quarrying,STEADY STATE,2022,70562.0
+Mining & Quarrying,HIGH,2022,70562.0
+Manufacturing,LOW,2022,163210.0
+Manufacturing,STEADY STATE,2022,163210.0
+Manufacturing,HIGH,2022,163210.0
+"Electricity, Gas and Water",LOW,2022,25237.0
+"Electricity, Gas and Water",STEADY STATE,2022,25237.0
+"Electricity, Gas and Water",HIGH,2022,25237.0
+Construction,LOW,2022,64626.0
+Construction,STEADY STATE,2022,64626.0
+Construction,HIGH,2022,64626.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2022,123886.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2022,123886.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2022,123886.0
+"Transport, Storage & Communication",LOW,2022,87686.0
+"Transport, Storage & Communication",STEADY STATE,2022,87686.0
+"Transport, Storage & Communication",HIGH,2022,87686.0
+Real Estate,LOW,2022,109362.0
+Real Estate,STEADY STATE,2022,109362.0
+Real Estate,HIGH,2022,109362.0
+"Finance, Insurance and Business services",LOW,2022,118644.0
+"Finance, Insurance and Business services",STEADY STATE,2022,118644.0
+"Finance, Insurance and Business services",HIGH,2022,118644.0
+"Community, Social & Personal Services",LOW,2022,61634.0
+"Community, Social & Personal Services",STEADY STATE,2022,61634.0
+"Community, Social & Personal Services",HIGH,2022,61634.0
+Government Activities,LOW,2022,327331.0
+Government Activities,STEADY STATE,2022,327331.0
+Government Activities,HIGH,2022,327331.0
+Riyadh GDP,LOW,2022,1241429.0
+Riyadh GDP,STEADY STATE,2022,1241429.0
+Riyadh GDP,HIGH,2022,1241429.0
+Saudi Arabia GDP,LOW,2022,3495059.0
+Saudi Arabia GDP,STEADY STATE,2022,3495059.0
+Saudi Arabia GDP,HIGH,2022,3495059.0
+"Agriculture, Forestry & Fishing",LOW,2023,58895.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2023,58895.0
+"Agriculture, Forestry & Fishing",HIGH,2023,58895.0
+Mining & Quarrying,LOW,2023,83525.0
+Mining & Quarrying,STEADY STATE,2023,83525.0
+Mining & Quarrying,HIGH,2023,83525.0
+Manufacturing,LOW,2023,164600.0
+Manufacturing,STEADY STATE,2023,164600.0
+Manufacturing,HIGH,2023,164600.0
+"Electricity, Gas and Water",LOW,2023,26920.0
+"Electricity, Gas and Water",STEADY STATE,2023,26920.0
+"Electricity, Gas and Water",HIGH,2023,26920.0
+Construction,LOW,2023,71218.0
+Construction,STEADY STATE,2023,71218.0
+Construction,HIGH,2023,71218.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2023,127053.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2023,127053.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2023,127053.0
+"Transport, Storage & Communication",LOW,2023,94668.0
+"Transport, Storage & Communication",STEADY STATE,2023,94668.0
+"Transport, Storage & Communication",HIGH,2023,94668.0
+Real Estate,LOW,2023,109646.0
+Real Estate,STEADY STATE,2023,109646.0
+Real Estate,HIGH,2023,109646.0
+"Finance, Insurance and Business services",LOW,2023,137864.0
+"Finance, Insurance and Business services",STEADY STATE,2023,137864.0
+"Finance, Insurance and Business services",HIGH,2023,137864.0
+"Community, Social & Personal Services",LOW,2023,67009.0
+"Community, Social & Personal Services",STEADY STATE,2023,67009.0
+"Community, Social & Personal Services",HIGH,2023,67009.0
+Government Activities,LOW,2023,383989.0
+Government Activities,STEADY STATE,2023,383989.0
+Government Activities,HIGH,2023,383989.0
+Riyadh GDP,LOW,2023,1370795.0
+Riyadh GDP,STEADY STATE,2023,1370795.0
+Riyadh GDP,HIGH,2023,1370795.0
+Saudi Arabia GDP,LOW,2023,3468675.0
+Saudi Arabia GDP,STEADY STATE,2023,3468675.0
+Saudi Arabia GDP,HIGH,2023,3468675.0
+"Agriculture, Forestry & Fishing",LOW,2024,60161.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2024,60956.0
+"Agriculture, Forestry & Fishing",HIGH,2024,61839.0
+Mining & Quarrying,LOW,2024,85321.0
+Mining & Quarrying,STEADY STATE,2024,86449.0
+Mining & Quarrying,HIGH,2024,87702.0
+Manufacturing,LOW,2024,168139.0
+Manufacturing,STEADY STATE,2024,170361.0
+Manufacturing,HIGH,2024,172830.0
+"Electricity, Gas and Water",LOW,2024,27499.0
+"Electricity, Gas and Water",STEADY STATE,2024,27862.0
+"Electricity, Gas and Water",HIGH,2024,28266.0
+Construction,LOW,2024,72749.0
+Construction,STEADY STATE,2024,73710.0
+Construction,HIGH,2024,74778.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2024,129785.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2024,131500.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2024,133406.0
+"Transport, Storage & Communication",LOW,2024,96704.0
+"Transport, Storage & Communication",STEADY STATE,2024,97982.0
+"Transport, Storage & Communication",HIGH,2024,99402.0
+Real Estate,LOW,2024,112004.0
+Real Estate,STEADY STATE,2024,113484.0
+Real Estate,HIGH,2024,115129.0
+"Finance, Insurance and Business services",LOW,2024,140828.0
+"Finance, Insurance and Business services",STEADY STATE,2024,142689.0
+"Finance, Insurance and Business services",HIGH,2024,144757.0
+"Community, Social & Personal Services",LOW,2024,68450.0
+"Community, Social & Personal Services",STEADY STATE,2024,69354.0
+"Community, Social & Personal Services",HIGH,2024,70360.0
+Government Activities,LOW,2024,392245.0
+Government Activities,STEADY STATE,2024,397429.0
+Government Activities,HIGH,2024,403188.0
+Riyadh GDP,LOW,2024,1400267.0
+Riyadh GDP,STEADY STATE,2024,1418772.0
+Riyadh GDP,HIGH,2024,1439334.0
+Saudi Arabia GDP,LOW,2024,3543252.0
+Saudi Arabia GDP,STEADY STATE,2024,3590079.0
+Saudi Arabia GDP,HIGH,2024,3642109.0
+"Agriculture, Forestry & Fishing",LOW,2025,61454.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2025,63089.0
+"Agriculture, Forestry & Fishing",HIGH,2025,64931.0
+Mining & Quarrying,LOW,2025,87156.0
+Mining & Quarrying,STEADY STATE,2025,89474.0
+Mining & Quarrying,HIGH,2025,92087.0
+Manufacturing,LOW,2025,171754.0
+Manufacturing,STEADY STATE,2025,176324.0
+Manufacturing,HIGH,2025,181471.0
+"Electricity, Gas and Water",LOW,2025,28090.0
+"Electricity, Gas and Water",STEADY STATE,2025,28837.0
+"Electricity, Gas and Water",HIGH,2025,29679.0
+Construction,LOW,2025,74313.0
+Construction,STEADY STATE,2025,76290.0
+Construction,HIGH,2025,78517.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2025,132575.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2025,136102.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2025,140076.0
+"Transport, Storage & Communication",LOW,2025,98783.0
+"Transport, Storage & Communication",STEADY STATE,2025,101411.0
+"Transport, Storage & Communication",HIGH,2025,104372.0
+Real Estate,LOW,2025,114412.0
+Real Estate,STEADY STATE,2025,117456.0
+Real Estate,HIGH,2025,120885.0
+"Finance, Insurance and Business services",LOW,2025,143856.0
+"Finance, Insurance and Business services",STEADY STATE,2025,147683.0
+"Finance, Insurance and Business services",HIGH,2025,151995.0
+"Community, Social & Personal Services",LOW,2025,69922.0
+"Community, Social & Personal Services",STEADY STATE,2025,71782.0
+"Community, Social & Personal Services",HIGH,2025,73878.0
+Government Activities,LOW,2025,400678.0
+Government Activities,STEADY STATE,2025,411339.0
+Government Activities,HIGH,2025,423348.0
+Riyadh GDP,LOW,2025,1430372.0
+Riyadh GDP,STEADY STATE,2025,1468430.0
+Riyadh GDP,HIGH,2025,1511301.0
+Saudi Arabia GDP,LOW,2025,3619431.0
+Saudi Arabia GDP,STEADY STATE,2025,3715731.0
+Saudi Arabia GDP,HIGH,2025,3824214.0
+"Agriculture, Forestry & Fishing",LOW,2026,62775.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2026,65297.0
+"Agriculture, Forestry & Fishing",HIGH,2026,68178.0
+Mining & Quarrying,LOW,2026,89029.0
+Mining & Quarrying,STEADY STATE,2026,92606.0
+Mining & Quarrying,HIGH,2026,96691.0
+Manufacturing,LOW,2026,175446.0
+Manufacturing,STEADY STATE,2026,182495.0
+Manufacturing,HIGH,2026,190545.0
+"Electricity, Gas and Water",LOW,2026,28694.0
+"Electricity, Gas and Water",STEADY STATE,2026,29847.0
+"Electricity, Gas and Water",HIGH,2026,31163.0
+Construction,LOW,2026,75911.0
+Construction,STEADY STATE,2026,78960.0
+Construction,HIGH,2026,82443.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2026,135425.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2026,140866.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2026,147080.0
+"Transport, Storage & Communication",LOW,2026,100907.0
+"Transport, Storage & Communication",STEADY STATE,2026,104961.0
+"Transport, Storage & Communication",HIGH,2026,109591.0
+Real Estate,LOW,2026,116872.0
+Real Estate,STEADY STATE,2026,121567.0
+Real Estate,HIGH,2026,126929.0
+"Finance, Insurance and Business services",LOW,2026,146948.0
+"Finance, Insurance and Business services",STEADY STATE,2026,152852.0
+"Finance, Insurance and Business services",HIGH,2026,159594.0
+"Community, Social & Personal Services",LOW,2026,71425.0
+"Community, Social & Personal Services",STEADY STATE,2026,74294.0
+"Community, Social & Personal Services",HIGH,2026,77571.0
+Government Activities,LOW,2026,409293.0
+Government Activities,STEADY STATE,2026,425735.0
+Government Activities,HIGH,2026,444515.0
+Riyadh GDP,LOW,2026,1461125.0
+Riyadh GDP,STEADY STATE,2026,1519825.0
+Riyadh GDP,HIGH,2026,1586866.0
+Saudi Arabia GDP,LOW,2026,3697249.0
+Saudi Arabia GDP,STEADY STATE,2026,3845782.0
+Saudi Arabia GDP,HIGH,2026,4015425.0
+"Agriculture, Forestry & Fishing",LOW,2027,64125.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2027,67583.0
+"Agriculture, Forestry & Fishing",HIGH,2027,71587.0
+Mining & Quarrying,LOW,2027,90944.0
+Mining & Quarrying,STEADY STATE,2027,95847.0
+Mining & Quarrying,HIGH,2027,101526.0
+Manufacturing,LOW,2027,179219.0
+Manufacturing,STEADY STATE,2027,188882.0
+Manufacturing,HIGH,2027,200072.0
+"Electricity, Gas and Water",LOW,2027,29311.0
+"Electricity, Gas and Water",STEADY STATE,2027,30891.0
+"Electricity, Gas and Water",HIGH,2027,32722.0
+Construction,LOW,2027,77543.0
+Construction,STEADY STATE,2027,81724.0
+Construction,HIGH,2027,86565.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2027,138337.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2027,145796.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2027,154434.0
+"Transport, Storage & Communication",LOW,2027,103076.0
+"Transport, Storage & Communication",STEADY STATE,2027,108634.0
+"Transport, Storage & Communication",HIGH,2027,115070.0
+Real Estate,LOW,2027,119384.0
+Real Estate,STEADY STATE,2027,125822.0
+Real Estate,HIGH,2027,133276.0
+"Finance, Insurance and Business services",LOW,2027,150108.0
+"Finance, Insurance and Business services",STEADY STATE,2027,158202.0
+"Finance, Insurance and Business services",HIGH,2027,167574.0
+"Community, Social & Personal Services",LOW,2027,72960.0
+"Community, Social & Personal Services",STEADY STATE,2027,76895.0
+"Community, Social & Personal Services",HIGH,2027,81450.0
+Government Activities,LOW,2027,418092.0
+Government Activities,STEADY STATE,2027,440636.0
+Government Activities,HIGH,2027,466741.0
+Riyadh GDP,LOW,2027,1492540.0
+Riyadh GDP,STEADY STATE,2027,1573018.0
+Riyadh GDP,HIGH,2027,1666209.0
+Saudi Arabia GDP,LOW,2027,3776740.0
+Saudi Arabia GDP,STEADY STATE,2027,3980384.0
+Saudi Arabia GDP,HIGH,2027,4216196.0
+"Agriculture, Forestry & Fishing",LOW,2028,65504.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2028,69948.0
+"Agriculture, Forestry & Fishing",HIGH,2028,75166.0
+Mining & Quarrying,LOW,2028,92899.0
+Mining & Quarrying,STEADY STATE,2028,99202.0
+Mining & Quarrying,HIGH,2028,106602.0
+Manufacturing,LOW,2028,183072.0
+Manufacturing,STEADY STATE,2028,195493.0
+Manufacturing,HIGH,2028,210076.0
+"Electricity, Gas and Water",LOW,2028,29941.0
+"Electricity, Gas and Water",STEADY STATE,2028,31973.0
+"Electricity, Gas and Water",HIGH,2028,34358.0
+Construction,LOW,2028,79210.0
+Construction,STEADY STATE,2028,84584.0
+Construction,HIGH,2028,90894.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2028,141311.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2028,150899.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2028,162155.0
+"Transport, Storage & Communication",LOW,2028,105292.0
+"Transport, Storage & Communication",STEADY STATE,2028,112436.0
+"Transport, Storage & Communication",HIGH,2028,120824.0
+Real Estate,LOW,2028,121951.0
+Real Estate,STEADY STATE,2028,130225.0
+Real Estate,HIGH,2028,139940.0
+"Finance, Insurance and Business services",LOW,2028,153335.0
+"Finance, Insurance and Business services",STEADY STATE,2028,163739.0
+"Finance, Insurance and Business services",HIGH,2028,175953.0
+"Community, Social & Personal Services",LOW,2028,74529.0
+"Community, Social & Personal Services",STEADY STATE,2028,79586.0
+"Community, Social & Personal Services",HIGH,2028,85523.0
+Government Activities,LOW,2028,427081.0
+Government Activities,STEADY STATE,2028,456058.0
+Government Activities,HIGH,2028,490078.0
+Riyadh GDP,LOW,2028,1524629.0
+Riyadh GDP,STEADY STATE,2028,1628074.0
+Riyadh GDP,HIGH,2028,1749520.0
+Saudi Arabia GDP,LOW,2028,3857940.0
+Saudi Arabia GDP,STEADY STATE,2028,4119698.0
+Saudi Arabia GDP,HIGH,2028,4427006.0
+"Agriculture, Forestry & Fishing",LOW,2029,66912.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2029,72396.0
+"Agriculture, Forestry & Fishing",HIGH,2029,78924.0
+Mining & Quarrying,LOW,2029,94896.0
+Mining & Quarrying,STEADY STATE,2029,102674.0
+Mining & Quarrying,HIGH,2029,111932.0
+Manufacturing,LOW,2029,187008.0
+Manufacturing,STEADY STATE,2029,202335.0
+Manufacturing,HIGH,2029,220580.0
+"Electricity, Gas and Water",LOW,2029,30585.0
+"Electricity, Gas and Water",STEADY STATE,2029,33092.0
+"Electricity, Gas and Water",HIGH,2029,36075.0
+Construction,LOW,2029,80913.0
+Construction,STEADY STATE,2029,87545.0
+Construction,HIGH,2029,95438.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2029,144350.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2029,156181.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2029,170263.0
+"Transport, Storage & Communication",LOW,2029,107556.0
+"Transport, Storage & Communication",STEADY STATE,2029,116372.0
+"Transport, Storage & Communication",HIGH,2029,126865.0
+Real Estate,LOW,2029,124573.0
+Real Estate,STEADY STATE,2029,134783.0
+Real Estate,HIGH,2029,146937.0
+"Finance, Insurance and Business services",LOW,2029,156632.0
+"Finance, Insurance and Business services",STEADY STATE,2029,169470.0
+"Finance, Insurance and Business services",HIGH,2029,184751.0
+"Community, Social & Personal Services",LOW,2029,76132.0
+"Community, Social & Personal Services",STEADY STATE,2029,82371.0
+"Community, Social & Personal Services",HIGH,2029,89799.0
+Government Activities,LOW,2029,436264.0
+Government Activities,STEADY STATE,2029,472020.0
+Government Activities,HIGH,2029,514582.0
+Riyadh GDP,LOW,2029,1557409.0
+Riyadh GDP,STEADY STATE,2029,1685057.0
+Riyadh GDP,HIGH,2029,1836996.0
+Saudi Arabia GDP,LOW,2029,3940886.0
+Saudi Arabia GDP,STEADY STATE,2029,4263887.0
+Saudi Arabia GDP,HIGH,2029,4648356.0
+"Agriculture, Forestry & Fishing",LOW,2030,68351.0
+"Agriculture, Forestry & Fishing",STEADY STATE,2030,74930.0
+"Agriculture, Forestry & Fishing",HIGH,2030,82871.0
+Mining & Quarrying,LOW,2030,96936.0
+Mining & Quarrying,STEADY STATE,2030,106268.0
+Mining & Quarrying,HIGH,2030,117529.0
+Manufacturing,LOW,2030,191028.0
+Manufacturing,STEADY STATE,2030,209417.0
+Manufacturing,HIGH,2030,231609.0
+"Electricity, Gas and Water",LOW,2030,31242.0
+"Electricity, Gas and Water",STEADY STATE,2030,34250.0
+"Electricity, Gas and Water",HIGH,2030,37879.0
+Construction,LOW,2030,82652.0
+Construction,STEADY STATE,2030,90609.0
+Construction,HIGH,2030,100210.0
+"Wholesale & Retail Trade, Restaurants & hotels",LOW,2030,147453.0
+"Wholesale & Retail Trade, Restaurants & hotels",STEADY STATE,2030,161647.0
+"Wholesale & Retail Trade, Restaurants & hotels",HIGH,2030,178776.0
+"Transport, Storage & Communication",LOW,2030,109869.0
+"Transport, Storage & Communication",STEADY STATE,2030,120445.0
+"Transport, Storage & Communication",HIGH,2030,133208.0
+Real Estate,LOW,2030,127251.0
+Real Estate,STEADY STATE,2030,139501.0
+Real Estate,HIGH,2030,154283.0
+"Finance, Insurance and Business services",LOW,2030,159999.0
+"Finance, Insurance and Business services",STEADY STATE,2030,175401.0
+"Finance, Insurance and Business services",HIGH,2030,193988.0
+"Community, Social & Personal Services",LOW,2030,77768.0
+"Community, Social & Personal Services",STEADY STATE,2030,85254.0
+"Community, Social & Personal Services",HIGH,2030,94289.0
+Government Activities,LOW,2030,445643.0
+Government Activities,STEADY STATE,2030,488541.0
+Government Activities,HIGH,2030,540311.0
+Riyadh GDP,LOW,2030,1590893.0
+Riyadh GDP,STEADY STATE,2030,1744034.0
+Riyadh GDP,HIGH,2030,1928846.0
+Saudi Arabia GDP,LOW,2030,4025615.0
+Saudi Arabia GDP,STEADY STATE,2030,4413123.0
+Saudi Arabia GDP,HIGH,2030,4880774.0

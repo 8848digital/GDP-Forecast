@@ -1,4 +1,4 @@
-## GDP Forecastihng
+## GDP forecasting
 
 gdp forecasting
 

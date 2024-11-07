@@ -1,5 +1,5 @@
 app_name = "gdp_forecasting"
-app_title = "GDP Forecastihng"
+app_title = "GDP forecasting"
 app_publisher = "gopal@8848digital.com"
 app_description = "gdp forecasting"
 app_email = "gopal@8848digital.com"
