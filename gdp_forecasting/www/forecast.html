@@ -1,0 +1,136 @@
+{% extends "templates/web.html" %}
+{% block page_content %}
+<!DOCTYPE html>
+<html>
+  <style>
+    .navbar-light{
+    display: none !important;
+}
+.web-footer{
+  display: none !important;
+}
+.page-content-wrapper {
+      background: #005587;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      width: 100%;
+      height: 100vh; 
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+      margin: 0;
+      padding: 0;
+    }
+
+  </style>
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <link rel="icon" href="images/fevicon.png" type="image/gif" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>Strategic Gears</title>
+
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+
+  <!-- font awesome style -->
+  <link href="css/font-awesome.min.css" rel="stylesheet" />
+
+  <!-- Libraries Stylesheet -->
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  
+
+  <!-- Custom styles for this template -->
+  <link href="css/style_forecast.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container1-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.html">
+            <img src="images/SG_Square_1-removebg-preview.png" alt="Logo" style="min-width: 120px; min-height: 100px">
+            <span>
+              Strategic Gears
+            </span>
+          </a>
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class=""> </span>
+          </button>     
+      </div>
+    </header>
+    <section class="slider_section ">
+      <div id="customCarousel1" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="container ">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="detail-box">
+                    <h1>
+                      Fast & Secure <br>
+                      Forecasting
+                    </h1>
+                    <p>
+                      Our innovative forecasting tools provide fast and secure data insights, empowering businesses to make informed decisions. 
+                      With advanced algorithms, our forecasts deliver accuracy and reliability to help you anticipate future trends and stay ahead in your industry.
+                      Whether you're planning for the year or looking at quarterly projections, our solutions give you the confidence you need to succeed.
+                    </p>
+                      <div class="btn-box">
+                      <div class="dropdown">
+                        <button class="btn-2 btn-secondary dropdown-toggle btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" style="background-color: white; color:black; margin-top:5px" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                            Select Forecast
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <li><a class="dropdown-item" href="#" onclick="selectForecast('Annual Forecast (Holt-Winters)')">Annual Forecast (Holt-Winters)</a></li>
+                            <li><a class="dropdown-item" href="#" onclick="selectForecast('Quarterly Forecast (Holt-Winters )')">Quarterly Forecast (Holt-Winters)</a></li>
+                        </ul>
+                    </div>
+                      <a class="btn-2 btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft" onclick="runFunction()">
+                        Run
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class=" col-lg-10 mx-auto">
+                      <div class="img-box">
+                        <img src="images/slider-img1.png" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/forecast.js"></script>
+
+  {% endblock %}

@@ -1,0 +1,29 @@
+{
+ "allow_roles": [
+  {
+   "role": "Accounts User"
+  },
+  {
+   "role": "Maintenance User"
+  }
+ ],
+ "creation": "2024-11-10 16:20:06.607435",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "https://docs.erpnext.com/docs/user/manual/en/asset",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2024-11-10 16:20:21.682623",
+ "modified_by": "Administrator",
+ "module": "GDP forecasting",
+ "name": "GDP1",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Visit GDP App"
+  }
+ ],
+ "subtitle": "Assets, Depreciations, Repairs, and more.",
+ "success_message": "The IT Module is all set up!",
+ "title": "Let's Set Up the IT Module."
+}

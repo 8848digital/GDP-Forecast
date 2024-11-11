@@ -7,22 +7,40 @@ from datetime import datetime
 import csv
 import os
 import subprocess
+import ast
 from frappe.model.document import Document
 
 class GDPForecasting(Document):
 	pass
 
 @frappe.whitelist()
-def upload_file(file, dataset_type):
-    file = frappe.get_site_path(file.split('/')[-3], "files", file.split('/')[-1])
+def upload_file(file, use_existing, dataset_type):
+    file_path = ast.literal_eval(file)
+    file = frappe.get_site_path('private', "files", file_path[0].split('/')[-1])
 
     # Check if the file exists before attempting to read it
     if not os.path.exists(file):
         raise FileNotFoundError(f"No such file or directory: '{file}'")
 
     success = handle_uploaded_file(file, dataset_type)
+    file_paths = [
+    '/private/files' + file_path[1] if file_path[1].strip() else None,
+    '/private/files' + file_path[2] if file_path[2].strip() else None,
+    '/private/files' + file_path[3] if file_path[3].strip() else None,
+    '/private/files' + file_path[4] if file_path[4].strip() else None
+    ]
+    print(file_paths)
+    upload_base_datasets(
+            file_paths[0], 
+            file_paths[1], 
+            file_paths[2], 
+            file_paths[3], 
+            use_existing_gdp_file=1, 
+            use_existing_workforce_file=1, 
+            use_existing_annual_growth_file=1, 
+            use_existing_quarterly_growth_file=1)
     if success:
-        frappe.msgprint(_("Data uploaded successfully!"), indicator="green")
+        frappe.msgprint(_("Data uploaded successfully!"), indicator="green", alert=True)
         return {"status": "success"}
     else:
         frappe.throw(_("Failed to upload data. Please try again."), title="Upload Error")
@@ -56,7 +74,7 @@ def handle_uploaded_file(file, dataset_type):
             """, (sector, sub_sector, year, gdp, timestamp))
             
             frappe.db.commit()
-            frappe.msgprint("Annual data uploaded successfully!", indicator="green")
+            frappe.msgprint("Annual data uploaded successfully!", indicator="green", alert=True)
             success = True
         except Exception as e:
             frappe.log_error(f"Error processing annual file: {e}", "Annual File Upload Error")
@@ -159,22 +177,25 @@ def process_quarterly_file(file):
 def run_forecast_script(forecast_type):
     from gdp_forecasting.forecast_scripts.holt_winters_quarterly import main
     from gdp_forecasting.forecast_scripts.holt_winters_annual import main_annual
-    
-    if forecast_type == 'annual_arima':
-        script_path = os.path.join(os.path.dirname(__file__), 'forecast_scripts', 'arima_annual.py')
-    elif forecast_type == 'quarterly_arima':
-        script_path = os.path.join(os.path.dirname(__file__), 'forecast_scripts', 'arima_quarterly.py')
-    elif forecast_type == 'Annual Forecast (Holt-Winters Exponential Smoothing)':
-        main_annual()
-    elif forecast_type == 'Quarterly Forecast (Holt-Winters Exponential Smoothing)':
-        main()
-    else:
-        frappe.throw('Invalid forecast type selected.', title='Error')  # Show error message
-    
     try:
+        if forecast_type == 'annual_arima':
+            script_path = os.path.join(os.path.dirname(__file__), 'forecast_scripts', 'arima_annual.py')
+        elif forecast_type == 'quarterly_arima':
+            script_path = os.path.join(os.path.dirname(__file__), 'forecast_scripts', 'arima_quarterly.py')
+        elif forecast_type == 'Annual Forecast (Holt-Winters)':
+            main_annual()
+        elif forecast_type == 'Quarterly Forecast (Holt-Winters )':
+            main()
+        else:
+            frappe.throw('Invalid forecast type selected.', title='Error')  # Show error message
+    
         # Running the forecast script using subprocess
         # subprocess.run(['python3', script_path], check=True)
-        frappe.msgprint('Forecast script executed successfully.')  # Show success message
+        frappe.msgprint(
+                msg='<span style="color: white;">Forecast script executed successfully.</span>',
+                indicator="green",
+                alert=True)
+        return 'success'
     except subprocess.CalledProcessError as e:
         # If subprocess fails, raise error and log to Frappe's error log
         error_message = f"Error executing the forecast script: {str(e)}"
@@ -199,7 +220,6 @@ def upload_base_datasets(gdp_dataset, workforce_dataset, annual_growth_rates_dat
     workforce_file = workforce_dataset if workforce_dataset else default_workforce_file
     annual_growth_file = annual_growth_rates_dataset if annual_growth_rates_dataset else default_annual_growth_file
     quarterly_growth_file = quarterly_growth_rates_dataset if quarterly_growth_rates_dataset else default_quarterly_growth_file
-    
     # Open database connection
     table_creation_commands = {
             "gdp": """
@@ -244,7 +264,7 @@ def upload_base_datasets(gdp_dataset, workforce_dataset, annual_growth_rates_dat
 
     # Define tables to truncate and associated CSV files
     tables_and_files = {
-        'gdp': frappe.get_site_path("private", "files", gdp_file.split('/')[-1]),
+        'gdp': gdp_file,
         'workforce': workforce_file,
         'Annual_GrowthRates': annual_growth_file,
         'Quarterly_GrowthRates': quarterly_growth_file
