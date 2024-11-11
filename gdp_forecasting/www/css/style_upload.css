@@ -500,3 +500,24 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+.text-transition {
+    font-size: 2rem;  /* Adjust size as needed */
+    font-weight: bold;
+    animation: colorShift 3s infinite alternate;
+  }
+  
+  @keyframes colorShift {
+    0% {
+      color: white;
+      opacity: 1;
+    }
+    50% {
+      color: white;
+      opacity: 1;
+    }
+    100% {
+      color: white;
+      opacity: 1;
+    }
+  }
